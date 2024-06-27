@@ -1,4 +1,4 @@
-def first():
+def first1():
     a=55
     b=22
     c=a+b
