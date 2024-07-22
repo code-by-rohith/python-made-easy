@@ -1,5 +1,6 @@
 class vehicle:
     wheels=True
+
     @property
     def move_forword(self):
         print("Moving  Forword")
@@ -18,3 +19,5 @@ bike1=bike()
 print("wheels : ",bike1.wheels)
 print("No of wheels :",bike1.no_of_wheels)
 bike1.move_forword
+
+
