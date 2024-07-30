@@ -43,7 +43,6 @@ def print_pattern():
         for j in range(i):
             print(i, end=" ")
         print()
-
 print("1. Printing numbers up to n:")
 print_numbers_up_to_n(10)
 
