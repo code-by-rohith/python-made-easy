@@ -8,6 +8,7 @@ def main():
         csv_reader = csv.reader(csv_file_output)
         count = 0
         for row in csv_reader:
+            print(row)
             if count == 0:
                row.append('Final Amount')
                row.append("Discount")
@@ -24,6 +25,7 @@ def main():
 
             count = count + 1
             data.append(row)
+            print(data)
 
         myfile = Path('output.csv')
         with open(myfile, 'w') as csv_file_output:
