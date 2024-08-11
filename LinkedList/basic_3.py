@@ -17,7 +17,6 @@ class LinkedList:
         while current.pointer:
             current=current.pointer
         current.pointer=newnode
-
     def display(self):
         current=self.head
         while current:
@@ -29,4 +28,5 @@ ll.adding(10)
 ll.adding(20)
 ll.adding(30)
 ll.display()
+
 
