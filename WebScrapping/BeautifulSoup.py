@@ -14,4 +14,5 @@ for tag in tags:
             if len(i['class']) != 0:
                 class_list.add(" ".join(i['class']))
 
+
 print(class_list)
