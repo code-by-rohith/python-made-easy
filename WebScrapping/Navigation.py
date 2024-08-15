@@ -5,7 +5,9 @@ url= 'https://webscraper.io/test-sites'
 value=requests.get(url)
 
 soup = BeautifulSoup(value.text,'html.parser')
-finding=soup.find('div')
-formated_html=finding.prettify()
+finding=soup.header.a.span
+print(finding.string)
 
-print(formated_html)
+
+
+
