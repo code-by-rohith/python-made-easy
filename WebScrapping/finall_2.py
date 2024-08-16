@@ -9,3 +9,6 @@ soup = BeautifulSoup(conn.text,"lxml")
 # element = soup.find_all(string = ["Galaxy Tab 3"])
 element = soup.find_all(string =re.compile( "Acer"))
 print(element)
+
+
+
