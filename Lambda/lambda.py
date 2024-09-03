@@ -111,3 +111,5 @@ print(f"lambda37: {lambda37(10)}")  # Outputs: [0, 2, 4, 6, 8]
 print(f"lambda38: {lambda38(10)}")  # Outputs: [0, 2, 4, 6, 8]
 print(f"lambda39: {lambda39(5)}")  # Outputs: [0, 1, 4, 9, 16]
 print(f"lambda40: {lambda40(10)}")  # Outputs: [1, 3, 5, 7, 9]
+
+
