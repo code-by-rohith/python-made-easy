@@ -4,6 +4,7 @@ def myFunc():
   yield "Good Bye"
 
 x = myFunc()
+print(x)
 
 
 

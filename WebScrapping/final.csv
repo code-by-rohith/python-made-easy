@@ -1,401 +1,1001 @@
 ,Product Name ,Product Price,Review
-0,"Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass,Made...",699,3.9
-1,"Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass,Made...",699,3.9
-2,boAt Airdopes 161/163 with ASAP Charge & 40 HRS Playbac...,"1,099",4
-3,"boAt Airdopes Supreme w/ 4 Mics AI ENx Tech, 50 HRS Pla...","1,499",4.1
-4,boAt Airdopes 131 with upto 60 hours and ASAP Charge Bl...,999,4
-5,OPPO Enco Buds 2 with 28 hours Battery life & Deep Nois...,"1,799",4.3
-6,"realme Buds T300 with 12.4mm Driver, 30dB ANC, 360 Spat...","2,299",4.3
-7,"Mivi DuoPods i6 TWS, Engineered for Athletes, IPX 4.0,1...","1,399",4.6
-8,boAt Nirvana Ion with 120 Hours Playback & Crystal Bion...,"1,999",4.1
-9,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...","1,099",4
-10,"Noise Buds VS102 with 50 Hrs Playtime, 11mm Driver, IPX...","1,199",4
-11,"Mivi DuoPods D3 TWS,13mm Driver,Rich Bass,50H Playtime,...",799,3.8
-12,"boAt Airdopes 71 w/ 40 HRS Playback, ENx Technology & B...",999,3.9
-13,"Noise Buds VS102 with 50 Hrs Playtime, 11mm Driver, IPX...","1,199",4
-14,"realme Buds T110 with AI ENC for calls, upto 38 hours o...","1,499",4.2
-15,boAt Airdopes 131 with upto 60 hours and ASAP Charge Bl...,999,4
-16,"Noise Buds VS102 Elite with 50Hr Playtime, ENC, Quad Mi...","1,299",4
-17,"Number Super Buds 999 40dB ANC Gaming TWS Earbuds,4 Mic...","1,199",3.8
-18,"Boult Z60 with 60Hr Battery, Quad Mic ENC, 50ms Ultra L...","1,299",4
-19,"boAt Immortal 171 w/ Beast Mode(40ms Low Latency), 40 H...","1,299",4
-20,Aroma NB140 Jaguar 50 Hours* Playtime|Deep Bass|Fast Ch...,699,3.7
-21,Aroma NB140 Harmony 40 Hours* Playtime|Deep Bass|Fast C...,699,3.4
-22,"Noise Buds VS102 Neo with 40 Hrs Playtime, Environmenta...","1,099",4
-23,"boAt Nirvana Ion 32dB Active Noise Cancellation, 120HRS...","2,499",4.1
-24,boAt Airdopes 161/163 with ASAP Charge & 40 HRS Playbac...,"1,099",4
-25,"truke BTG Ultra with 60H Playtime, 360Spatial, Low Late...",899,4
-26,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
-27,"Noise Buds VS102 Neo with 40 Hrs Playtime, Environmenta...","1,099",4
-28,OnePlus Nord Buds 2r in Ear Earbuds with Dual Mic & AI ...,"1,999",4.3
-29,"boAt Airdopes 71 w/ 40 HRS Playback, ENx Technology & B...",999,3.9
-30,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
-31,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",698,3.9
-32,"Boult Astra Neo 70Hrs Playtime, 4 Mic ENC, BT 5.4, 40ms...","1,299",4.1
-33,boAt Airdopes 161/163 with ASAP Charge & 40 HRS Playbac...,"1,099",4
-34,Apple AirPods Pro (2nd generation) with MagSafe Case (U...,"19,999",4.6
-35,"boAt Immortal 131 w/ Beast Mode(40ms Low Latency), 40 H...","1,299",4
-36,Aroma NB140 Ranger 50 Hours* Playtime |Perfect for Musi...,699,3.6
-37,"Boult Airbass Z35 with ZEN ENC Mic, 32H Playtime, 45ms ...",899,3.9
-38,"boAt Airdopes Supreme w/ 4 Mics AI ENx Tech, 50 HRS Pla...","1,499",4.1
-39,"boAt Immortal 131 w/ Beast Mode(40ms Low Latency), 40 H...","1,299",4
-40,"Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass,Made...",699,3.9
-41,"Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass,Made...",699,3.9
-42,"Boult Astra with Quad Mic ENC, 48Hrs Battery, Low Laten...","1,499",4.1
-43,boAt Airdopes 131 with upto 60 hours and ASAP Charge Bl...,999,4
-44,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",698,3.9
-45,boAt Nirvana Ion with 120 Hours Playback & Crystal Bion...,"1,599",4.1
-46,"Mivi DuoPods i6 TWS, Engineered for Athletes, IPX 4.0,1...","1,399",4.6
-47,"Mivi DuoPods D3 TWS,13mm Driver,Rich Bass,50H Playtime,...",799,3.8
-48,"HOPPUP Predator Xo1 Gaming Earbuds with 50H Playtime,13...",799,4.1
-49,"boAt Airdopes 200 Plus with 100 HRS Playback, Quad Mics...",999,3.8
-50,"Number Super Buds 999 40dB ANC Gaming TWS Earbuds,4 Mic...","1,199",3.8
-51,"Boult Z60 with 60Hr Battery, Quad Mic ENC, 50ms Ultra L...","1,299",4
-52,"Noise Buds VS102 Pro with ANC (25dB), 70 Hours Playtime...","1,799",3.8
-53,"Mivi DuoPods D4 TWS,Rich Bass,50H Playtime,AI ENC,Low L...",699,3.9
-54,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...","1,099",4
-55,"Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass,Made...",699,3.9
-56,Aroma NB140 Jaguar 50 Hours* Playtime|Deep Bass|Fast Ch...,699,3.7
-57,Aroma NB140 Harmony 40 Hours* Playtime|Deep Bass|Fast C...,699,3.4
-58,"boAt Immortal 171 w/ Beast Mode(40ms Low Latency), 40 H...","1,299",4
-59,"Boult Astra with Quad Mic ENC, 48Hrs Battery, Low Laten...","1,499",4.1
-60,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
-61,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
-62,"Boult Z40 Pro with 100H Battery, Quad Mic ENC, Scratch ...","1,599",4.1
-63,"boAt Nirvana Ion 32dB Active Noise Cancellation, 120HRS...","2,799",4.1
-64,"boAt Airdopes 71 w/ 40 HRS Playback, ENx Technology & B...",999,3.9
-65,"Boult Astra with Quad Mic ENC, 48Hrs Battery, Low Laten...","1,499",4.1
-66,Aroma NB140 Ranger 50 Hours* Playtime |Perfect for Musi...,699,3.6
-67,"Boult Airbass Z35 with ZEN ENC Mic, 32H Playtime, 45ms ...",899,3.9
-68,boAt Airdopes 131 with upto 60 hours and ASAP Charge Bl...,999,4
-69,"boAt Airdopes 200 Plus with 100 HRS Playback, Quad Mics...",999,3.8
-70,"HOPPUP AirDoze Z51 with 4 Mic ENC, 13MM Drivers, 50H Pl...",799,4.1
-71,"Mivi DuoPods i6 TWS, Engineered for Athletes, IPX 4.0,1...","1,399",4.6
-72,"truke Buds F1 Ultra with 60 Hours Playtime, Spatial Aud...",799,3.9
-73,Number Super Buds Pro GT99 4 Mic MEMS ENC Gaming RGB TW...,999,4.1
-74,"boAt Nirvana Ion 32dB Active Noise Cancellation, 120HRS...","2,499",4.1
-75,"Boult Z40 Pro with 100H Battery, Quad Mic ENC, Scratch ...","1,599",4.1
-76,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
-77,"Mivi DuoPods D3 TWS,13mm Driver,Rich Bass,50H Playtime,...",799,3.8
-78,"Noise Buds VS102 with 50 Hrs Playtime, 11mm Driver, IPX...","1,199",4
-79,"Bose QUIETCOMFORT EARBUDS II,WW Bluetooth Headset","14,999",4.2
-80,"Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass,Made...",699,3.9
-81,"Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass,Made...",699,3.9
-82,"Boult Y1 Pro with Zen Quad Mic ENC, 60Hrs Battery, Fast...","1,199",4.1
-83,Apple AirPods(2nd gen) with Charging Case Bluetooth Hea...,"10,990",4.5
-84,Portronics Harmonics Twins S3 Smart TWS Bluetooth Earbu...,749,4
-85,"CMF by Nothing Buds Pro with 45 dB ANC, Ultra Bass Tech...","2,999",4.1
-86,"Mivi DuoPods i6 TWS, Engineered for Athletes, IPX 4.0,1...","1,399",4.6
-87,"Mivi DuoPods D3 TWS,13mm Driver,Rich Bass,50H Playtime,...",799,3.8
-88,OnePlus Nord Buds 2r in Ear Earbuds with Dual Mic & AI ...,"1,999",4.3
-89,"OnePlus Buds 3 TWS, in Ear Earbuds with Sliding Volume ...","5,499",4.5
-90,Aroma NB140 Jaguar 50 Hours* Playtime|Deep Bass|Fast Ch...,699,3.7
-91,"Number Super Buds 999 40dB ANC Gaming TWS Earbuds,4 Mic...","1,199",3.8
-92,"HOPPUP AirDoze S40 Earbuds with 13MM Drivers, 40H Playt...",699,4
-93,"Boult Y1 Pro with Zen Quad Mic ENC, 60Hrs Battery, Fast...","1,199",4.1
-94,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
-95,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...","1,099",4
-96,"Boult Z60 with 60Hr Battery, Quad Mic ENC, 50ms Ultra L...","1,299",4
-97,Aroma NB140 Harmony 40 Hours* Playtime|Deep Bass|Fast C...,699,3.4
-98,"Boult X45 with Quad Mic ENC, 40H Playtime, 45ms Ultra L...",899,3.9
-99,OnePlus Nord Buds 2r True Wireless in Ear Earbuds with ...,"1,999",4.3
-100,"Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass,Made...",699,3.9
-101,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
-102,"Mivi DuoPods i6 TWS, Engineered for Athletes, IPX 4.0,1...","1,399",4.6
-103,"Mivi DuoPods D3 TWS,13mm Driver,Rich Bass,50H Playtime,...",799,3.8
-104,"Boult Z40 Pro with 100H Battery, Quad Mic ENC, Scratch ...","1,599",4.1
-105,"realme Buds T300 with 12.4mm Driver, 30dB ANC, 360 Spat...","2,299",4.3
-106,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
-107,Aroma NB140 Ranger 50 Hours* Playtime |Perfect for Musi...,699,3.6
-108,"Noise Buds VS102 Neo with 40 Hrs Playtime, Environmenta...","1,099",4
-109,"Noise Buds VS102 Plus with 70 Hrs Playtime, Environment...","1,599",3.9
-110,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",698,3.9
-111,"Boult Airbass Z35 with ZEN ENC Mic, 32H Playtime, 45ms ...",899,3.9
-112,"TRIGGR Ultrabuds N1 Neo with ENC, 40Hr Playback, 13mm D...",799,4
-113,"CMF by Nothing Buds 42 dB Active Noise Cancellation, Ul...","2,499",4.2
-114,"HOPPUP AirDoze S40 Earbuds with 13MM Drivers, 40H Playt...",699,4
-115,"truke Buds F1 Ultra with 60 Hours Playtime, Spatial Aud...",799,3.9
-116,"HOPPUP AirDoze Z51 with 4 Mic ENC, 13MM Drivers, 50H Pl...",799,4.1
-117,"Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass,Made...",699,3.9
-118,"Number Super Buds Pro GT9 Helmet MEMS ENC Gaming TWS, 4...",999,3.9
-119,"boAt Airdopes 161 ANC Elite w/ ANC, 50 HRS Playback, AS...","1,599",4
-120,"Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass,Made...",699,3.9
-121,"Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass,Made...",699,3.9
-122,"boAt Airdopes 311 Pro w/ 50 HRS Playback, ASAP Charge &...","1,199",3.9
-123,"Fire-Boltt Fire Pods Lycan Earbuds TWS, ENC & Gaming, 4...",999,4
-124,"Aroma NB140 Galaxy 50 Hours* Playtime, Deep Bass, Fast ...",701,3.6
-125,"Noise Buds Trance with 45 Hrs Playtime, Low Latency (up...",999,4.1
-126,"Mivi DuoPods i6 TWS, Engineered for Athletes, IPX 4.0,1...","1,399",4.6
-127,"Mivi DuoPods D3 TWS,13mm Driver,Rich Bass,50H Playtime,...",799,3.8
-128,"boAt Nirvana Ion 32dB Active Noise Cancellation, 120HRS...","2,799",4.1
-129,"Boult Airbass Z35 with ZEN ENC Mic, 32H Playtime, 45ms ...",899,3.9
-130,Aroma NB140 Jaguar 50 Hours* Playtime|Deep Bass|Fast Ch...,699,3.7
-131,"Number Super Buds 999 40dB ANC Gaming TWS Earbuds,4 Mic...","1,199",3.8
-132,OPPO Enco Buds 2 with 28 hours Battery life & Deep Nois...,"1,799",4.3
-133,"Noise Buds Trance with 45 Hrs Playtime, Low Latency (up...",999,4.1
-134,"Mivi DuoPods D4 TWS,Rich Bass,50H Playtime,AI ENC,Low L...",699,3.9
-135,"boAt Airdopes 181 Pro w/ 100 HRS Playback, 4 Mics ENx T...","1,399",3.9
-136,"Boult Z60 with 60Hr Battery, Quad Mic ENC, 50ms Ultra L...","1,299",4
-137,Aroma NB140 Harmony 40 Hours* Playtime|Deep Bass|Fast C...,699,3.4
-138,"Noise Aura Buds with Dual Device Pairing, 60 Hours of P...","1,599",4
-139,"truke Buds S1 with Quad Mic ENC, 72 Hours Playtime, 10m...","1,099",4
-140,"Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass,Made...",699,3.9
-141,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
-142,"Boult Maverick with 4 Mic ENC, 35Hrs Battery, Low Laten...",899,4
-143,Nothing Ear (2) 2023 | Dual chamber sound | Hi-res audi...,"7,999",4.3
-144,"Boult W40 with Quad Mic ENC, 48H Battery Life, Low Late...","1,299",4.1
-145,REDMI Buds 5 with 46dB Hybrid Active Noise Cancellation...,"2,699",4.2
-146,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
-147,Aroma NB140 Ranger 50 Hours* Playtime |Perfect for Musi...,699,3.6
-148,"boAt Airdopes Flex 454 ANC w/32dB ANC, Multi Point Conn...","1,999",3.9
-149,"Noise Buds VS102 Elite with 50Hr Playtime, ENC, Quad Mi...","1,299",4
-150,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",698,3.9
-151,"HOPPUP AirDoze Z51 with 4 Mic ENC, 13MM Drivers, 50H Pl...",799,4.1
-152,"Mivi DuoPods K6 TWS,Rich Bass,50H Playtime,AI ENC,Low L...","1,253",4
-153,"boAt Airdopes 161 Pro-Buds w/ ASAP Charge, Multi-Point ...","1,198",3.8
-154,Number Super Buds Pro GT99 4 Mic MEMS ENC Gaming RGB TW...,999,4.1
-155,"Mivi DuoPods i7 TWS,3D Soundstage,High-fidelity Driver,...","1,499",4.1
-156,"Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass,Made...",699,3.9
-157,"Mivi DuoPods i6 TWS, Engineered for Athletes, IPX 4.0,1...","1,399",4.6
-158,"boAt Immortal 150 w/ Beast Mode(40ms Low Latency), 40 H...","1,099",3.9
-159,"JBL Tune 235NC TWS, Active Noise Cancellation, 40Hr Pla...","3,999",3.8
-160,Aroma NB140 Jaguar 50 Hours* Playtime|Deep Bass|Fast Ch...,699,3.7
-161,"truke Yoga Beat Open-Ear Headset with 30H Playtime, Dua...",899,3.9
-162,boAt Airdopes 131 Elite ANC w/ Active Noise Cancellatio...,"1,499",4
-163,"moto buds+|Sound by Bose, Dual Dynamic Drivers, 48dB AN...","9,999",4
-164,"Mivi DuoPods i2 TWS,13mm Bass,45H Playtime,Dual Mic AI ...",999,4
-165,"truke Buds S2 Lite with Quad-Mic ENC, 48H Playtime, Mad...",799,3.9
-166,"Mivi DuoPods D3 TWS,13mm Driver,Rich Bass,50H Playtime,...",799,3.8
-167,Aroma NB140 Jaguar 50 Hours* Playtime|Deep Bass|Fast Ch...,699,3.7
-168,"realme Buds Air 5 Pro with 50dB ANC, 360 Spatial Audio ...","4,299",4.4
-169,"Mivi DuoPods D4 TWS,Rich Bass,50H Playtime,AI ENC,Low L...",699,3.9
-170,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",698,3.9
-171,"Noise Buds VS102 Elite with 50Hr Playtime, ENC, Quad Mi...","1,299",4
-172,"Noise Buds VS401 with 50 Hrs Playtime, Quad Mic with EN...","1,199",4
-173,SONY WF-C500 IPX4/20Hrs Battery Life Bluetooth Headset,"5,490",4.1
-174,boAt Airdopes 131 Elite ANC w/ Active Noise Cancellatio...,"1,499",4
-175,"boAt Airdopes 181 Pro w/ 100 HRS Playback, 4 Mics ENx T...","1,399",3.9
-176,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
-177,"Boult Y1 Pro with Zen Quad Mic ENC, 60Hrs Battery, Fast...","1,199",4.1
-178,"truke Earbuds A1 with Quad Mic ANC upto 32db, 48Hrs bat...",699,3.7
-179,"beatXP Wave XPods with 50H Playtime, Quad Mic ENC, Gami...",799,3.8
-180,"Noise Buds VS102 Neo with 40 Hrs Playtime, Environmenta...","1,099",4
-181,"Boult W40 with Quad Mic ENC, 48H Battery Life, Low Late...","1,299",4.1
-182,"Mivi DuoPods D4 TWS,Rich Bass,50H Playtime,AI ENC,Low L...",699,3.9
-183,"Highnotes AirDoze TypeC BT 5.2, 65msLowLatency TouchEna...",666,3.7
-184,"HOPPUP AirDoze Z51 with 4 Mic ENC, 13MM Drivers, 50H Pl...",799,4.1
-185,"TRIGGR Kraken X3 with RGB Lights, 40ms Latency, Quad EN...",898,4
-186,"truke Buds F1 Ultra with 60 Hours Playtime, Spatial Aud...",799,3.9
-187,"Aroma NB140 Galaxy 50 Hours* Playtime, Deep Bass, Fast ...",701,3.6
-188,"Mivi DuoPods i5 TWS,Metallic Finish,13mm Bass,50H Playt...","1,399",4.1
-189,"SONY WF-C700N Lightest TWS ANC 20Hr battery, In-Ear, 10...","7,990",4
-190,Aroma NB140 Matrix 40 Hours*Playtime|Deep Bass | Fast C...,699,3.7
-191,Aroma NB140 Harmony 40 Hours* Playtime|Deep Bass|Fast C...,699,3.4
-192,"TRIGGR Kraken X2 Quad Mic ENC, 40 Hr Battery, Rapid Pai...",898,4
-193,"TRIGGR Ultrabuds N1 Neo with ENC, 40Hr Playback, 13mm D...",799,4
-194,"boAt Airdopes 800 w/ Dolby Audio, 4 Mics AI-ENx Tech, T...","1,799",4
-195,HOPPUP Predator Xo7 Gaming Earbuds with 35MS Low Latenc...,899,4
-196,"Aroma NB140 Galaxy 50 Hours* Playtime, Deep Bass, Fast ...",701,3.6
-197,"Noise Buds VS102 Elite with 50Hr Playtime, ENC, Quad Mi...","1,299",4
-198,"Mivi SuperPods Halo [Flagship Launch], ANC with 3D Soun...","1,999",4.5
-199,boAt Airdopes 131 Elite ANC w/ Active Noise Cancellatio...,"1,499",4
-200,"Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass,Made...",699,3.9
-201,"Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass,Made...",699,3.9
-202,"Noise Buds X prime with 120 Hrs of Playtime, ENC with Q...","1,399",3.8
-203,"moto buds+|Sound by Bose, Dual Dynamic Drivers, 48dB AN...","9,999",4
-204,HOPPUP Predator Xo4 Gaming Earbuds with 35MS Low Latenc...,799,4.1
-205,"Boult W40 with Quad Mic ENC, 48H Battery Life, Low Late...","1,099",4.1
-206,"Mivi DuoPods i6 TWS, Engineered for Athletes, IPX 4.0,1...","1,399",4.6
-207,"Mivi DuoPods D3 TWS,13mm Driver,Rich Bass,50H Playtime,...",799,3.8
-208,"JBL Live Pro 2, Active Adaptive Noise Cancellation, 40H...","9,998",4.3
-209,"boAt Immortal 161 w/ Beast Mode(40ms Low Latency), 40 H...","1,299",4
-210,"Number Super Buds 999 40dB ANC Gaming TWS Earbuds,4 Mic...","1,199",3.8
-211,"Boult Z60 with 60Hr Battery, Quad Mic ENC, 50ms Ultra L...","1,299",4
-212,Apple AirPods (3rd generation) with Lightning Charging ...,"19,099",4.3
-213,"truke Buds Q1+ with 80H Playtime, Quad Mic Adv.ENC, 12m...",899,3.8
-214,OnePlus Nord Buds 3 Pro Truly Wireless Earbuds with 49d...,"3,299",4.4
-215,"Mivi DuoPods i6 TWS, Engineered for Athletes, IPX 4.0,1...","1,399",4.6
-216,Aroma NB140 Jaguar 50 Hours* Playtime|Deep Bass|Fast Ch...,699,3.7
-217,Aroma NB140 Harmony 40 Hours* Playtime|Deep Bass|Fast C...,699,3.4
-218,OnePlus Nord Buds 2 True Wireless Earbuds with 25dB Act...,"2,999",4.3
-219,REDMI Buds 5 with 46dB Hybrid Active Noise Cancellation...,"2,599",4.2
-220,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
-221,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
-222,"Boult X45 with Quad Mic ENC, 40H Playtime, 45ms Ultra L...",899,3.9
-223,"Boult W40 with Quad Mic ENC, 48H Battery Life, Low Late...","1,299",4.1
-224,"truke Buds Q1 with 30H Playtime, Quad Mic ENC, Game Mod...","1,099",4
-225,HOPPUP Predator Xo4 Gaming Earbuds with 35MS Low Latenc...,799,4.1
-226,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",698,3.9
-227,Aroma NB140 Ranger 50 Hours* Playtime |Perfect for Musi...,699,3.6
-228,HOPPUP GRAND With Power Bank Function & Upto 75 Hours P...,599,3.9
-229,boAt Airdopes 161 ANC w/ Active Noise Cancellation(32dB...,"1,399",3.8
-230,"Boult Airbass Z35 with ZEN ENC Mic, 32H Playtime, 45ms ...",899,3.9
-231,"HOPPUP AirDoze Z51 with 4 Mic ENC, 13MM Drivers, 50H Pl...",799,4.1
-232,OnePlus Buds Pro 2 Bluetooth Headset,"8,299",4.4
-233,"boAt Airdopes 181 with ENx Tech, BEAST Mode, ASAP Charg...","1,099",3.9
-234,"Noise Buds VS404 with 50 Hours Playtime, ENC with Quad ...","1,099",3.9
-235,boAt Airdopes 161 ANC w/ Active Noise Cancellation(32dB...,"1,399",3.8
-236,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
-237,"Mivi DuoPods D3 TWS,13mm Driver,Rich Bass,50H Playtime,...",799,3.8
-238,"CMF by Nothing Buds Pro with 45 dB ANC, Ultra Bass Tech...","2,999",4.1
-239,"Mivi DuoPods K6 TWS,Rich Bass,50H Playtime,AI ENC,Low L...","1,399",4
-240,"Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass,Made...",699,3.9
-241,"Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass,Made...",699,3.9
-242,"moto buds with Hi-Res Audio, Large 12.4mm driver, 42 hr...","3,999",3.9
-243,"HOPPUP Predator Xo1 Gaming Earbuds with 50H Playtime,13...",799,4.1
-244,"Noise Pop buds with 50 Hrs of playtime, Quad Mic with E...","1,399",3.8
-245,"Mivi DuoPods i5 TWS,Metallic Finish,13mm Bass,50H Playt...","1,399",4.1
-246,"Mivi DuoPods i6 TWS, Engineered for Athletes, IPX 4.0,1...","1,399",4.6
-247,"Mivi DuoPods D3 TWS,13mm Driver,Rich Bass,50H Playtime,...",799,3.8
-248,Aroma NB140 Jaguar 50 Hours* Playtime|Deep Bass|Fast Ch...,699,3.7
-249,"CMF by Nothing Buds 42 dB Active Noise Cancellation, Ul...","2,499",4.2
-250,"Number Super Buds 999 40dB ANC Gaming TWS Earbuds,4 Mic...","1,199",3.8
-251,"Boult Z60 with 60Hr Battery, Quad Mic ENC, 50ms Ultra L...","1,299",4
-252,"truke Buds Freedom OWS with QuadMic PureVoice ENC, 60H ...","1,799",3.9
-253,"boAt Airdopes 161 ANC Elite w/ ANC, 50 HRS Playback, AS...","1,599",4
-254,"boAt Airdopes 118 WROGN Edition w/ 50 HRS Playback, Qua...","1,299",3.6
-255,"ORAIMO Airbuds 3 Earbuds with ENC, up to 20 hours Playb...",999,4
-256,Aroma NB140 Harmony 40 Hours* Playtime|Deep Bass|Fast C...,699,3.4
-257,"Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass,Made...",699,3.9
-258,"Boult Z40 Gaming with 60H Battery, App Support, Dual Pa...","1,499",4.1
-259,"boAt Airdopes 191G w/ Dual Drivers, 30 HRS Playback, Qu...","1,099",4
-260,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
-261,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
-262,"Mivi Commando X7,35ms Low Latency,13mm Bass,50H Playtim...",899,3.9
-263,"boAt Airdopes Progear w/ Air Conduction Tech,100 HRS Pl...","1,899",3.6
-264,"REDMI Buds 5C Earbuds, 40dB Hybrid ANC TWS, 4 Mic, 5 EQ...","1,799",4.2
-265,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
-266,Aroma NB140 Ranger 50 Hours* Playtime |Perfect for Musi...,699,3.6
-267,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",698,3.9
-268,SAMSUNG Galaxy Buds FE SM-R400NZAAINS/SM-R400NZAAINU Bl...,"6,339",4.1
-269,boAt Airdopes 161 ANC w/ Active Noise Cancellation(32dB...,"1,399",3.8
-270,"Boult Airbass Z35 with ZEN ENC Mic, 32H Playtime, 45ms ...",899,3.9
-271,"HOPPUP AirDoze Z51 with 4 Mic ENC, 13MM Drivers, 50H Pl...",799,4.1
-272,"boAt Airdopes 311 Pro w/ 50 HRS Playback, ASAP Charge &...","1,199",3.9
-273,"Mivi Commando X7,35ms Low Latency,13mm Bass,50H Playtim...",899,3.9
-274,Aroma NB140 Matrix 40 Hours*Playtime|Deep Bass | Fast C...,699,3.7
-275,"realme Buds Air 5 Pro with 50dB ANC, 360 Spatial Audio ...","4,999",4.4
-276,"Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass,Made...",699,3.9
-277,"Mivi DuoPods i6 TWS, Engineered for Athletes, IPX 4.0,1...","1,399",4.6
-278,Fastrack FPods FZ100|Mega 50Hr Battery|Quad Mic ENC|3C ...,995,4
-279,"Boult Z40 Pro with 100H Battery, Quad Mic ENC, Scratch ...","1,599",4.1
-280,"Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass,Made...",699,3.9
-281,"Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass,Made...",699,3.9
-282,OnePlus Buds Pro 2R Bluetooth Headset,"6,399",4.1
-283,"HOPPUP AirDoze S40 Earbuds with 13MM Drivers, 40H Playt...",699,4
-284,"Noise Pop buds with 50 Hrs of playtime, Quad Mic with E...","1,399",3.8
-285,"boAt Airdopes 161 Thor Edition w/ 40 HRS Playback, ASAP...","1,099",4
-286,"Noise Buds VS102 with 50 Hrs Playtime, 11mm Driver, IPX...","1,199",4
-287,"Mivi DuoPods i6 TWS, Engineered for Athletes, IPX 4.0,1...","1,399",4.6
-288,Portronics Harmonics Twins S3 Smart TWS Bluetooth Earbu...,749,4
-289,"Number Super Buds GT M9 Gaming TWS Earbuds, 60Hr Playba...","1,299",4.2
-290,"Mivi DuoPods D3 TWS,13mm Driver,Rich Bass,50H Playtime,...",799,3.8
-291,"Noise Buds VS102 Elite with 50Hr Playtime, ENC, Quad Mi...","1,299",4
+0,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",599,3.9
+1,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
+2,boAt Airdopes 161/163 with ASAP Charge & 40 HRS Playbac...,999,4
+3,"Noise Buds VS102 with 50 Hrs Playtime, 11mm Driver, IPX...",899,4
+4,boAt Nirvana Ion with 120 Hours Playback & Crystal Bion...,"1,649",4.1
+5,"Boult Astra with Quad Mic ENC, 48Hrs Battery, Low Laten...","1,499",4.1
+6,OPPO Enco Buds 2 with 28 hours Battery life & Deep Nois...,"1,499",4.3
+7,HODOPHILE TF Premium BTH F9 Earbuds/TWs/buds 5.1 Earbud...,639,3.2
+8,"realme Buds T110 with AI ENC for calls, upto 38 hours o...","1,299",4.2
+9,"Boult W40 with Quad Mic ENC, 48H Battery Life, Low Late...",899,4.1
+10,"TRIGGR Kraken X1 with Battery Display, 40ms Latency, Qu...",799,4
+11,"HOPPUP Xo6 Gaming Earbuds with 35MS Low Latency, RGB LE...",799,3.9
+12,OnePlus Nord Buds 2 Earbuds with 25dB Active Noise Canc...,"2,199",4.3
+13,Brolan Blue Wireless Ear Buds witth multiple features B...,673,3.3
+14,"Noise Buds VS102 with 50 Hrs Playtime, 11mm Driver, IPX...",899,4
+15,boAt Airdopes 131 with upto 60 hours and ASAP Charge Bl...,799,4
+16,"HOPPUP AirDoze S40 Earbuds with 13MM Drivers, 40H Playt...",599,4
+17,"truke BTG1 Earbuds with Game Mode, 48H Playtime, Quad M...",799,4
+18,Brolan Truly Wireless in-Ear Blue Earbuds with ANC Blue...,721,3
+19,"Boult W40 with Quad Mic ENC, 48H Battery Life, Low Late...",899,4.1
+20,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
+21,"Boult Astra Neo 70Hrs Playtime, 4 Mic ENC, BT 5.4, 40ms...",999,4.1
+22,"Boult Z60 with 60Hr Battery, Quad Mic ENC, 50ms Ultra L...",999,4
+23,"boAt Immortal 161 w/ Beast Mode(40ms Low Latency), 40 H...",999,4
+24,"realme Buds T110 with AI ENC for calls, upto 38 hours o...","1,299",4.2
+25,"Boult W40 with Quad Mic ENC, 48H Battery Life, Low Late...",899,4.1
+26,"TRIGGR Ultrabuds N1 Neo with ENC, 40Hr Playback, 13mm D...",699,4.1
+27,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
+28,"boAt Airdopes 161 w/ 50HRS Playback, ENx Tech, 13mm Dri...",999,4
+29,SONY WF-C500 IPX4/20Hrs Battery Life Bluetooth,"4,490",4.1
+30,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...",999,4.1
+31,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+32,"Boult Z40 Pro with 100H Battery, Quad Mic ENC, Scratch ...","1,499",4.1
+33,"realme Buds Air 5 with 50dB ANC, 12.4mm Dynamic Bass Dr...","2,499",4.3
+34,"realme Buds T300 with 12.4mm Driver, 30dB ANC, 360 Spat...","1,799",4.3
+35,"TRIGGR Ultrabuds N1 Neo with ENC, 40Hr Playback, 13mm D...",699,4.1
+36,"truke BTG Ultra with 60H Playtime, 360Spatial, Low Late...",799,4
+37,HOUSE OF SOUND NEW FALCON EARBUDS Bluetooth Gaming,599,4
+38,OnePlus Nord Buds 2r in Ear Earbuds with Dual Mic & AI ...,"1,999",4.3
+39,"Noise Buds VS404 with 50 Hours Playtime, ENC with Quad ...",999,3.9
+40,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",599,3.9
+41,"TRIGGR Kraken X1 with Battery Display, 40ms Latency, Qu...",799,4
+42,"boAt Airdopes Supreme w/ 4 Mics AI ENx Tech, 50 HRS Pla...","1,499",4
+43,"boAt Airdopes 161 w/ 50HRS Playback, ENx Tech, 13mm Dri...",999,4
+44,"boAt Airdopes 161 with ASAP Charge, 40 Hours Playback &...",999,4
+45,"Boult Astra with Quad Mic ENC, 48Hrs Battery, Low Laten...","1,499",4.1
+46,"HOPPUP Xo6 Gaming Earbuds with 35MS Low Latency, RGB LE...",799,3.9
+47,"HOPPUP AirDoze S40 Earbuds with 13MM Drivers, 40H Playt...",599,4
+48,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+49,"Mivi Commando X7,35ms Low Latency,13mm Bass,50H Playtim...",799,3.9
+50,"truke BTG1 Earbuds with Game Mode, 48H Playtime, Quad M...",799,4
+51,"Boult Astra Neo 70Hrs Playtime, 4 Mic ENC, BT 5.4, 40ms...",999,4.1
+52,"CMF by Nothing Buds 42 dB Active Noise Cancellation, Ul...","1,999",4.2
+53,"Boult X45 with Quad Mic ENC, 40H Playtime, 45ms Ultra L...",799,3.9
+54,"Boult W40 with Quad Mic ENC, 48H Battery Life, Low Late...",899,4.1
+55,"Noise Buds VS102 Elite with 50Hr Playtime, ENC, Quad Mi...","1,299",4
+56,"TRIGGR Ultrabuds N1 Neo with ENC, 40Hr Playback, 13mm D...",699,4.1
+57,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
+58,"realme Buds T310 with 12.4mm Driver, 46dB ANC, Spatial ...","2,299",4.2
+59,"Mivi SuperPods Opera earbuds [Flagship Launch], Hi-res ...","1,999",4.9
+60,"truke BTG Ultra with 60H Playtime, 360Spatial, Low Late...",799,4
+61,"HOPPUP AirDoze F50 Earbuds with 40H PlayTime, 40MS Low ...",699,4
+62,"boAt Airdopes 181 Pro w/ 100 HRS Playback, 4 Mics ENx T...","1,399",3.9
+63,"Noise Buds VS102 with 50 Hrs Playtime, 11mm Driver, IPX...",899,4
+64,"boAt Airdopes 161 ANC Elite w/ ANC, 50 HRS Playback, AS...","1,599",4
+65,"HOPPUP Predator Xo1 Earbuds with 50H Playtime,13MM Driv...",699,4.1
+66,HOPPUP Predator Xo4 Gaming Earbuds with 35MS Low Latenc...,799,4.1
+67,"Boult Astra with Quad Mic ENC, 48Hrs Battery, Low Laten...","1,499",4.1
+68,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+69,"truke Buds F1 Ultra with 60 Hours Playtime, Spatial Aud...",799,4
+70,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+71,Tunifi Classic LB A520 Earbuds/TWs/buds 5.1 Earbuds wit...,709,3.6
+72,"Mivi DuoPods D4 TWS,Rich Bass,50H Playtime,AI ENC,Low L...",699,3.9
+73,"Mivi SuperPods Opera earbuds [Flagship Launch], Hi-res ...","1,999",4.9
+74,"Noise Buds VS102 Neo with 40 Hrs Playtime, Environmenta...",999,4
+75,"HOPPUP AirDoze S40 Earbuds with 13MM Drivers, 40H Playt...",599,4
+76,"truke Buds Q1 Lite with Quad-Mic ENC, 48H Playtime, Roy...",699,3.9
+77,"truke Buds Q1 Lite with Quad-Mic ENC, 48H Playtime, Roy...",699,3.9
+78,"boAt Airdopes 200 Plus with 100 HRS Playback, Quad Mics...","1,199",3.8
+79,"Boult Z35 with Zen ENC Mic, 32Hrs Battery Life, 45ms Ul...",799,3.9
+80,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",599,3.9
+81,"TRIGGR Kraken X1 with Battery Display, 40ms Latency, Qu...",799,4
+82,"Noise Buds VS404 with 50 Hours Playtime, ENC with Quad ...",999,3.9
+83,HOPPUP Predator Xo4 Gaming Earbuds with 35MS Low Latenc...,799,4.1
+84,"HOPPUP Predator Xo1 Gaming Earbuds with 50H Playtime,13...",699,4.1
+85,"Boult Z60 with 60Hr Battery, Quad Mic ENC, 50ms Ultra L...",999,4
+86,"HOPPUP Xo6 Gaming Earbuds with 35MS Low Latency, RGB LE...",799,3.9
+87,"HOPPUP AirDoze S40 Earbuds with 13MM Drivers, 40H Playt...",599,4
+88,"boAt Airdopes 181 Pro w/ 100 HRS Playback, 4 Mics ENx T...","1,399",3.9
+89,"Noise Buds Trance with 45 Hrs Playtime, Low Latency (up...","1,099",4.1
+90,"truke BTG1 Earbuds with Game Mode, 48H Playtime, Quad M...",799,4
+91,"Boult Astra Neo 70Hrs Playtime, 4 Mic ENC, BT 5.4, 40ms...",999,4.1
+92,"boAt Airdopes 200 Plus with 100 HRS Playback, Quad Mics...","1,199",3.8
+93,Fastrack FPods FZ100|Mega 50Hr Battery|Quad Mic ENC|3C ...,"1,695",4
+94,"Boult X50 with 40Hr Battery, Quad Mic ENC, 45ms Ultra L...",899,3.9
+95,"realme Buds T300 with 12.4mm Driver, 30dB ANC, 360 Spat...","1,799",4.3
+96,"TRIGGR Ultrabuds N1 Neo with ENC, 40Hr Playback, 13mm D...",699,4.1
+97,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
+98,"Boult Z40 Pro with 100H Battery, Quad Mic ENC, Scratch ...","1,499",4.1
+99,"Noise Buds VS102 Neo with 40 Hrs Playtime, Environmenta...",999,4
+100,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+101,"truke BTG Ultra with 60H Playtime, 360Spatial, Low Late...",799,4
+102,"boAt Airdopes 181 Pro w/ 100 HRS Playback, 4 Mics ENx T...","1,399",3.9
+103,boAt Airdopes 131 with upto 60 hours and ASAP Charge Bl...,799,4
+104,"Mivi SuperPods Opera earbuds [Flagship Launch], Hi-res ...","1,999",4.9
+105,"Boult Z60 with 60Hr Battery, Quad Mic ENC, 50ms Ultra L...",999,4
+106,"HOPPUP AirDoze F50 Earbuds with 40H PlayTime, 40MS Low ...",699,4
+107,"Boult Astra with Quad Mic ENC, 48Hrs Battery, Low Laten...","1,499",4.1
+108,"Mivi DuoPods D4 TWS,Rich Bass,50H Playtime,AI ENC,Low L...","1,299",3.9
+109,boAt Airdopes 131 Elite ANC w/ Active Noise Cancellatio...,"1,599",4
+110,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+111,Tunifi Classic LB A520 Earbuds/TWs/buds 5.1 Earbuds wit...,709,3.6
+112,"truke Clarity 2 V2 6Mics Adv.ENC, 68H Battery,13mm Driv...",799,4
+113,"Noise Buds VS102 Pro with ANC (25dB), 70 Hours Playtime...","1,499",3.8
+114,"JBL Tune 235NC TWS, Active Noise Cancellation, 40Hr Pla...","3,499",3.8
+115,"truke BTG Ultra with 60H Playtime, 360Spatial, Low Late...",799,4
+116,"truke Buds Q1 Lite with Quad-Mic ENC, 48H Playtime, Roy...",699,3.9
+117,"truke Buds Q1 Lite with Quad-Mic ENC, 48H Playtime, Roy...",699,3.9
+118,"moto buds+|Sound by Bose, Dual Dynamic Drivers, 48dB AN...","6,999",4
+119,"boAt Airdopes 131 PRO with 11mm Drivers,45Hrs Playback,...","1,299",3.9
+120,"Noise Buds VS102 Pro with ANC (25dB), 70 Hours Playtime...","1,499",3.8
+121,"realme Buds T01 with 13mm Driver, AI ENC for Calls, BT ...","1,299",4.1
+122,"Mivi DuoPods D4 TWS,Rich Bass,50H Playtime,AI ENC,Low L...","1,299",3.9
+123,"boAt Airdopes 161 Pro-Buds w/ ASAP Charge, Multi-Point ...","1,199",3.8
+124,Brolan Blue Wireless Ear Buds witth multiple features B...,673,3.3
+125,"boAt Airdopes Supreme w/ 4 Mics AI ENx Tech, 50 HRS Pla...","1,499",4
+126,"Number Super Buds GT M9 Gaming TWS Earbuds, 60Hr Playba...","1,299",4
+127,"boAt Immortal 161 w/ Beast Mode(40ms Low Latency), 40 H...","1,699",4
+128,Brolan Truly Wireless in-Ear Blue Earbuds with ANC Blue...,721,3
+129,boAt Airdopes 131 Elite ANC w/ Active Noise Cancellatio...,"1,599",4
+130,"Noise Buds VS102 Neo with 40 Hrs Playtime, Environmenta...",999,4
+131,HODOPHILE TF Premium BTH F9 Earbuds/TWs/buds 5.1 Earbud...,639,3.2
+132,"Noise Buds VS102 Neo with 40 Hrs Playtime, Environmenta...",999,4
+133,"Noise Buds VS404 with 50 Hours Playtime, ENC with Quad ...",999,3.9
+134,"boAt Immortal 131 w/ Beast Mode(40ms Low Latency), 40 H...","1,699",4
+135,Google Pixel Buds Pro with Active Noise Cancellation Bl...,"9,999",4.5
+136,"TECHFIRE Bullets 121 with Beast Mode(40ms Low Latency),...",599,3.5
+137,"truke Buds Q1 with 30H Playtime, Quad Mic ENC, Game Mod...",999,4
+138,"TRIGGR Apex S1 with Dual Pairing, 100H Battery, Quad Mi...",899,4.1
+139,"Boult Airbass Z35 with ZEN ENC Mic, 32H Playtime, 45ms ...",799,3.9
+140,Fastrack FPods FZ100|Mega 50Hr Battery|Quad Mic ENC|3C ...,"1,695",4
+141,boAt Immortal Airspeed Pro w/ Active Noise Cancellation...,"1,599",4.2
+142,"Mivi DuoPods D4 TWS,Rich Bass,50H Playtime,AI ENC,Low L...","1,299",3.9
+143,"boAt Airdopes 161 Deadpool Edition w/ 40 HRS Playback, ...","1,399",4
+144,Nothing Ear (a) 2024 | ChatGPT Compatible | Hi-Res audi...,"5,999",4.3
+145,"boAt Airdopes 131 PRO with 11mm Drivers,45Hrs Playback,...","1,299",3.9
+146,"Bose QUIETCOMFORT EARBUDS II,WW Bluetooth","25,900",4.3
+147,"Boult Z40 Pro with 100H Battery, Quad Mic ENC, Scratch ...","1,499",4.1
+148,"truke BTG Storm Earbuds with 40ms Low Latency, 50H Play...",799,4
+149,"boAt Nirvana Ion 32dB Active Noise Cancellation, 120HRS...","2,499",4.1
+150,"truke Buds Q1 Lite with Quad-Mic ENC, 48H Playtime, Roy...",699,3.9
+151,REDMI Buds 5 with 46dB Hybrid Active Noise Cancellation...,"2,499",4.1
+152,"Noise Buds VS102 Plus with 70 Hrs Playtime, Environment...","1,099",3.9
+153,"PTron Bassbuds Joy TWS with 13mm Drivers, Stereo Calls,...",799,3.6
+154,"boAt Nirvana Ivy w/ 360 Spatial Audio, Dynamic Head Tra...","3,299",4.3
+155,"truke Buds Q1 Lite with Quad-Mic ENC,48H Playtime,Royal...",699,3.9
+156,"realme Buds Air 6 with 50dB ANC, 12.4mm Bass Driver, Hi...","3,299",4.3
+157,"moto buds+|Sound by Bose, Dual Dynamic Drivers, 48dB AN...","6,999",4
+158,"realme Buds Air 6 Pro with 50dB ANC, 360 Spatial Audio ...","4,999",4.3
+159,"boAt Immortal 150 w/ Beast Mode(40ms Low Latency), 40 H...","1,099",3.9
+160,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",599,3.9
+161,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
+162,"Mivi DuoPods K5 TWS Earbuds Metallic Finish, HD calling...",899,3.9
+163,"TECHFIRE Bullets 360 TWS Earbuds with 100 HRS Playtime,...",699,3.7
+164,"truke BTG Flex buds with Dual Pairing, 60Hrs Battery, H...","1,099",4.3
+165,SONY WF-C500 IPX4/20Hrs Battery Life Bluetooth,"4,490",4.1
+166,"Boult Astra with Quad Mic ENC, 48Hrs Battery, Low Laten...","1,499",4.1
+167,"TRIGGR Kraken X1 with Battery Display, 40ms Latency, Qu...",799,4
+168,"Number Super Buds Pro GT9 Helmet MEMS ENC Gaming TWS, 4...","1,099",3.9
+169,"boAt Airdopes Supreme w/ 4 Mics AI ENx Tech, 50 HRS Pla...","1,599",4
+170,"HOPPUP Xo6 Gaming Earbuds with 35MS Low Latency, RGB LE...",799,3.9
+171,"HOPPUP AirDoze S40 Earbuds with 13MM Drivers, 40H Playt...",599,4
+172,"Noise Buds X prime with 120 Hrs of Playtime, ENC with Q...","1,099",3.8
+173,"boAt Airdopes 311 Pro w/ 50 HRS Playback, ASAP Charge &...","1,199",3.9
+174,"Mivi DuoPods i6 TWS, Engineered for Athletes, IPX 4.0,1...","1,399",4.5
+175,"TRIGGR Apex S1 with Dual Pairing, 100H Battery, Quad Mi...",899,4.1
+176,"truke BTG1 Earbuds with Game Mode, 48H Playtime, Quad M...",799,4
+177,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
+178,boAt Airdopes 383 Bluetooth,"1,499",3.9
+179,"truke Buds S2 Lite with Quad-Mic ENC, 48H Playtime, Mad...",799,3.9
+180,"Boult Astra Neo 70Hrs Playtime, 4 Mic ENC, BT 5.4, 40ms...",999,4.1
+181,"TRIGGR Ultrabuds N1 Neo with ENC, 40Hr Playback, 13mm D...",699,4.1
+182,"Mivi DuoPods K4 TWS,Rich Bass,50H Playtime,AI ENC,Low L...",699,3.7
+183,"Mivi SuperPods Opera earbuds [Flagship Launch], Hi-res ...","1,999",4.9
+184,"Noise Buds Verve 2 with 50Hr Playtime, ENC, Quad Mic & ...","1,299",4.2
+185,"moto buds with Hi-Res Audio, Large 12.4mm driver, 42 hr...","2,999",3.9
+186,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
+187,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...",999,4.1
+188,"Mivi DuoPods D3 TWS,13mm Driver,Rich Bass,50H Playtime,...",799,3.8
+189,"Noise Pop buds with 50 Hrs of playtime, Quad Mic with E...","1,399",3.8
+190,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+191,"truke BTG Ultra with 60H Playtime, 360Spatial, Low Late...",799,4
+192,"Noise Buds VS102 Pro with ANC (25dB), 70 Hours Playtime...","1,499",3.8
+193,REDMI Buds 5 with 46dB Hybrid Active Noise Cancellation...,"2,499",4.1
+194,boAt Airdopes 131 Elite ANC w/ Active Noise Cancellatio...,"1,599",4
+195,Nothing Ear 2024 | ChatGPT Compatible | Hi-Res Audio | ...,"8,999",4.3
+196,HOUSE OF SOUND NEW FALCON EARBUDS Bluetooth Gaming,599,4
+197,HOPPUP Predator Xo4 Gaming Earbuds with 35MS Low Latenc...,799,4.1
+198,"boAt Nirvana Ivy w/ 360 Spatial Audio, Dynamic Head Tra...","3,299",4.3
+199,"Noise Buds VS102 Elite with 50Hr Playtime, ENC, Quad Mi...","1,299",4
+200,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",599,3.9
+201,"TRIGGR Kraken X1 with Battery Display, 40ms Latency, Qu...",799,4
+202,"boAt Immortal 171 w/ Beast Mode(40ms Low Latency), 40 H...","1,699",4
+203,boAt Airdopes 131 Captain America Edition with 60 Hours...,"1,299",4
+204,"Noise Buds VS102 Plus with 70 Hrs Playtime, Environment...","1,099",3.9
+205,OnePlus Nord Buds 2 True Wireless Earbuds with 25dB Act...,"2,199",4.3
+206,"HOPPUP Xo6 Gaming Earbuds with 35MS Low Latency, RGB LE...",799,3.9
+207,"HOPPUP AirDoze S40 Earbuds with 13MM Drivers, 40H Playt...",599,4
+208,"Number SuperBuds 555 with Dual Pair, 66H Battery, 32dB ...","1,499",4.6
+209,boAt Immortal Airspeed Pro w/ Active Noise Cancellation...,"1,599",4.2
+210,"truke BTG1 Earbuds with Game Mode, 48H Playtime, Quad M...",799,4
+211,"Boult Astra Neo 70Hrs Playtime, 4 Mic ENC, BT 5.4, 40ms...",999,4.1
+212,"Number Super Buds GT M9 Gaming TWS Earbuds, 60Hr Playba...","1,299",4
+213,"TECHFIRE Bullets 360 TWS Earbuds with 100 HRS Playtime,...",699,3.7
+214,"Mivi DuoPods i2 TWS,13mm Bass,45H Playtime,Dual Mic AI ...",999,4
+215,"Mivi SuperPods Opera ANC earbuds [Flagship Launch], Hi-...","2,499",4.9
+216,"TRIGGR Ultrabuds N1 Neo with ENC, 40Hr Playback, 13mm D...",699,4.1
+217,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
+218,"boAt Airdopes 161 Thor Edition w/ 40 HRS Playback, ASAP...","1,399",4
+219,"Noise Pure Pods with AirWave technology, 80 Hours Playt...","2,999",3.8
+220,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+221,"truke BTG Ultra with 60H Playtime, 360Spatial, Low Late...",799,4
+222,"Noise Buds Trance with 45 Hrs Playtime, Low Latency (up...","1,099",4.1
+223,"Mivi DuoPods D3 TWS,13mm Driver,Rich Bass,50H Playtime,...","1,199",3.8
+224,"Noise Buds VS102 Pro with ANC (25dB), 70 Hours Playtime...","1,499",3.8
+225,"boAt Airdopes 200 Plus with 100 HRS Playback, Quad Mics...","1,199",3.8
+226,"HOPPUP AirDoze F50 Earbuds with 40H PlayTime, 40MS Low ...",699,4
+227,HOPPUP Predator Xo4 Gaming Earbuds with 35MS Low Latenc...,799,4.1
+228,"CMF by Nothing Buds Pro with 45 dB ANC, Ultra Bass Tech...","2,499",4.1
+229,"Boult Z40 Pro with 100H Battery, Quad Mic ENC, Scratch ...","1,499",4.1
+230,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+231,"Boult Astra with Quad Mic ENC, 48Hrs Battery, Low Laten...","1,499",4.1
+232,"Noise Buds Trance with 45 Hrs Playtime, Low Latency (up...","1,099",4.1
+233,"Boult Maverick with 4 Mic ENC, 35Hrs Battery, Low Laten...",899,3.9
+234,"boAt Airdopes 161 Hulk Edition w/ 40 HRS Playback, ASAP...","1,399",4
+235,"truke Buds Q1 Lite with Quad-Mic ENC, 48H Playtime, Roy...",699,3.9
+236,Tunifi Classic LB A520 Earbuds/TWs/buds 5.1 Earbuds wit...,709,3.6
+237,"truke Buds Q1 Lite with Quad-Mic ENC, 48H Playtime, Roy...",699,3.9
+238,"Noise Buds X prime with 120 Hrs of Playtime, ENC with Q...","1,099",3.8
+239,"Mivi DuoPods i7 TWS,3D Soundstage,High-fidelity Driver,...","1,499",4.1
+240,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",599,3.9
+241,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
+242,"Mivi DuoPods i3 TWS,13mm Bass,45+H Playtime,AI ENC,Low ...",799,4
+243,Nothing Ear (a) 2024 | ChatGPT Compatible | Hi-Res audi...,"5,999",4.3
+244,"Mivi DuoPods i2 TWS,13mm Bass,45H Playtime,Dual Mic AI ...",999,4
+245,"Mivi DuoPods i5 TWS,Metallic Finish,13mm Bass,50H Playt...","1,299",4.1
+246,"Boult Astra with Quad Mic ENC, 48Hrs Battery, Low Laten...","1,499",4.1
+247,"TRIGGR Kraken X1 with Battery Display, 40ms Latency, Qu...",799,4
+248,"truke Buds Q1 Lite with Quad-Mic ENC, 48H Playtime, Roy...",699,3.9
+249,"boAt Airdopes 71 w/ 40 HRS Playback, ENx Technology & B...","1,299",3.9
+250,"HOPPUP Xo6 Gaming Earbuds with 35MS Low Latency, RGB LE...",799,3.9
+251,"HOPPUP AirDoze S40 Earbuds with 13MM Drivers, 40H Playt...",599,4
+252,"POCO Pods with 30 Hour Playback, 12mm Drivers, 60ms Lat...","1,199",3.7
+253,"Mivi Commando X7,35ms Low Latency,13mm Bass,50H Playtim...",799,3.9
+254,"truke Buds Q1 Lite with Quad-Mic ENC, 48H Playtime, Roy...",699,3.9
+255,boAt Airdopes 131 Captain America Edition with 60 Hours...,"1,299",4
+256,"truke BTG1 Earbuds with Game Mode, 48H Playtime, Quad M...",799,4
+257,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
+258,"Mivi SuperPods Opera ANC earbuds [Flagship Launch], Hi-...","2,499",4.9
+259,"boAt Nirvana Ion 32dB Active Noise Cancellation, 120HRS...","2,499",4.1
+260,"Boult Astra Neo 70Hrs Playtime, 4 Mic ENC, BT 5.4, 40ms...",999,4.1
+261,"TRIGGR Ultrabuds N1 Neo with ENC, 40Hr Playback, 13mm D...",699,4.1
+262,"boAt Airdopes 161 Hulk Edition w/ 40 HRS Playback, ASAP...","1,399",4
+263,"HOPPUP Predator Xo1 Gaming Earbuds with 50H Playtime,13...",699,4.1
+264,"truke Clarity 6 with 80Hr Battery, 6Mic Adv.ENC, Dual C...",899,3.7
+265,"boAt Airdopes 800 w/ Dolby Audio, 4 Mics AI-ENx Tech, T...","1,799",4
+266,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
+267,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...",999,4.1
+268,"Noise Buds VS102 Neo with 40 Hrs Playtime, Environmenta...",999,4
+269,"Boult Z40 Gaming with 60H Battery, App Support, Dual Pa...","1,199",4.1
+270,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+271,"truke BTG Ultra with 60H Playtime, 360Spatial, Low Late...",799,4
+272,"Noise Buds Trance with 45 Hrs Playtime, Low Latency (up...","1,099",4.1
+273,OPPO Enco Air3 Pro Industry first Composite Bamboo Fibe...,"4,999",4.3
+274,"boAt Airdopes 200 Plus with 100 HRS Playback, Quad Mics...","1,199",3.8
+275,"boAt Nirvana Ion 32dB Active Noise Cancellation, 120HRS...","2,499",4.1
+276,HOUSE OF SOUND NEW FALCON EARBUDS Bluetooth Gaming,599,4
+277,HOPPUP Predator Xo4 Gaming Earbuds with 35MS Low Latenc...,799,4.1
+278,SAMSUNG Galaxy Buds FE SM-R400NZWAINS/SM-R400NZWAINU Bl...,"6,299",4.1
+279,"Mivi DuoPods D3 TWS,13mm Driver,Rich Bass,50H Playtime,...","1,199",3.8
+280,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",599,3.9
+281,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
+282,"Number SuperBuds 555 with Dual Pair, 66H Battery, 32dB ...","1,499",4.6
+283,"boAt Airdopes Progear w/ Air Conduction Tech,100 HRS Pl...","1,699",3.9
+284,boAt Airdopes 161 ANC w/ Active Noise Cancellation(32dB...,"1,699",3.8
+285,"Mivi DuoPods i3 TWS,13mm Bass,45+H Playtime,AI ENC,Low ...",799,4
+286,"Boult Astra with Quad Mic ENC, 48Hrs Battery, Low Laten...","1,499",4.1
+287,"TRIGGR Kraken X1 with Battery Display, 40ms Latency, Qu...",799,4
+288,"PTron Bassbuds Joy TWS with 13mm Drivers, Stereo Calls,...",799,3.6
+289,"Noise Buds Combat with 45 Hours Playtime, Ultra-low Lat...","1,299",3.8
+290,"HOPPUP Xo6 Gaming Earbuds with 35MS Low Latency, RGB LE...",799,3.9
+291,"HOPPUP AirDoze S40 Earbuds with 13MM Drivers, 40H Playt...",599,4
 292,"boAt Airdopes 181 with ENx Tech, BEAST Mode, ASAP Charg...","1,099",3.9
-293,"HOPPUP Xo6 Gaming Earbuds with 35MS Low Latency, RGB LE...",999,3.9
-294,"POCO Pods with 30 Hour Playback, 12mm Drivers, 60ms Lat...","1,198",3.7
-295,"boAt Immortal 100 w/ Beast Mode(40ms Low Latency), 30 H...",999,4
-296,"Noise Buds VS102 with 50 Hrs Playtime, 11mm Driver, IPX...","1,199",4
-297,"Number Super Buds 999 40dB ANC Gaming TWS Earbuds,4 Mic...","1,199",3.8
-298,Nothing Ear (a) 2024 | ChatGPT Compatible | Hi-Res audi...,"7,999",4.3
-299,"Noise Buds VS102 Plus with 70 Hrs Playtime, Environment...","1,599",3.9
-300,Aroma NB140 Jaguar 50 Hours* Playtime|Deep Bass|Fast Ch...,699,3.7
-301,"Boult Z60 with 60Hr Battery, Quad Mic ENC, 50ms Ultra L...","1,299",4
-302,"Number Super Buds GT M9 Gaming TWS Earbuds, 60Hr Playba...","1,349",4.2
-303,Number Super Buds Pro GT99 4 Mic MEMS ENC Gaming RGB TW...,999,4.1
-304,"HOPPUP Predator Xo1 Gaming Earbuds with 50H Playtime,13...",799,4.1
-305,"JBL Live Pro 2, Active Adaptive Noise Cancellation, 40H...","9,999",4.3
-306,Aroma NB140 Harmony 40 Hours* Playtime|Deep Bass|Fast C...,699,3.4
-307,"Noise Buds VS102 Neo with 40 Hrs Playtime, Environmenta...","1,099",4
-308,"Boult Omega with 30dB ANC, Quad Mic ENC, 45ms Latency G...","1,298",3.9
-309,"Boult Omega with 30dB ANC, Quad Mic ENC, 45ms Latency G...","1,299",3.9
-310,"Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass,Made...",699,3.9
-311,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
-312,"Mivi DuoPods K5 TWS Earbuds Metallic Finish, HD calling...",999,4
-313,"boAt Airdopes 131 PRO with 11mm Drivers,45Hrs Playback,...","1,299",3.9
-314,Apple AirPods (3rd generation) Bluetooth Headset,"19,599",4.3
-315,"truke Clarity 5 V2 6Mics Adv.ENC & Dual Connectivity, 8...",999,4
-316,"Noise Buds VS102 Neo with 40 Hrs Playtime, Environmenta...","1,099",4
-317,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
-318,"HOPPUP AirDoze S40 Earbuds with 13MM Drivers, 40H Playt...",699,4
-319,"boAt Airdopes Flex 454 ANC w/32dB ANC, Multi Point Conn...","1,999",3.9
-320,"Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass,Made...",699,3.9
-321,"Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass,Made...",699,3.9
-322,SAMSUNG Galaxy Buds2 Pro SM-R510NZAAINU/SM-R510NZAAINS ...,"10,799",4.3
-323,"Blaupunkt BTW12 KHROME Bassbuds Truly BT Earbuds,Low La...","1,049",4
-324,"boAt Airdopes 300 w/ 4-Mics ENx Technology,Multipoint C...","1,499",3.9
-325,"JBL Live Beam 3, Hi-Res LDAC Audio ANC TWS, SmartCase,4...","13,999",4.4
-326,"Mivi DuoPods i6 TWS, Engineered for Athletes, IPX 4.0,1...","1,399",4.6
-327,"Mivi DuoPods D3 TWS,13mm Driver,Rich Bass,50H Playtime,...",799,3.8
-328,"Mivi DuoPods i5 TWS,Metallic Finish,13mm Bass,50H Playt...","1,399",4.1
-329,OPPO Enco Air3 Pro Industry first Composite Bamboo Fibe...,"4,999",4.3
-330,"Number Super Buds 999 40dB ANC Gaming TWS Earbuds,4 Mic...","1,199",3.8
-331,"Boult Z60 with 60Hr Battery, Quad Mic ENC, 50ms Ultra L...","1,299",4
-332,"Noise Buds VS102 Elite with 50Hr Playtime, ENC, Quad Mi...","1,299",4
-333,"boAt Airdopes 131 PRO with 11mm Drivers,45Hrs Playback,...","1,299",3.9
-334,"Mivi SuperPods Halo [Flagship Launch], ANC with 3D Soun...","1,999",4.5
-335,WINGS Flobuds 300 Made In India TWS Earbuds with Leathe...,998,3.8
-336,Aroma NB140 Jaguar 50 Hours* Playtime|Deep Bass|Fast Ch...,699,3.7
-337,Aroma NB140 Harmony 40 Hours* Playtime|Deep Bass|Fast C...,699,3.4
-338,boAt Airdopes 131 Captain America Edition with 60 Hours...,999,4
-339,"Noise Buds VS401 with 50 Hrs Playtime, Quad Mic with EN...","1,399",4
-340,"Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass,Made...",699,3.9
-341,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
-342,"truke Yoga Beat Open-Ear Headset with 30H Playtime, Dua...",899,3.9
-343,"JBL Tune Beam Active Noise Cancellation, 48H playtime, ...","5,498",3.8
-344,"Earboss AirDoze Music with Game Mode(45ms), Quad Mic EN...",682,3.8
-345,boAt Airdopes 131 Captain America Edition with 60 Hours...,999,4
-346,Aroma NB140 Ranger 50 Hours* Playtime |Perfect for Musi...,699,3.6
-347,"HOPPUP AirDoze Z51 with 4 Mic ENC, 13MM Drivers, 50H Pl...",799,4.1
-348,"Noise Combat X, Spatial Audio, 60 Hours of Playtime, Lo...","1,599",3.8
-349,"SONY WF-1000XM5 Best Noise Cancelling TWS Earbuds,Multi...","21,990",4.2
-350,"Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass,Made...",699,3.9
-351,"Mivi DuoPods i6 TWS, Engineered for Athletes, IPX 4.0,1...","1,399",4.6
-352,"HOPPUP Xo6 Gaming Earbuds with 35MS Low Latency, RGB LE...",999,3.9
-353,"Noise Buds Combat with 45 Hours Playtime, Ultra-low Lat...","1,799",3.8
-354,"HOPPUP AirDoze Grand Pro with Power Bank Function, 200 ...",699,3.9
-355,"Noise Buds VS102 Elite with 50Hr Playtime, ENC, Quad Mi...","1,299",4
-356,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
-357,"Mivi DuoPods D3 TWS,13mm Driver,Rich Bass,50H Playtime,...",799,3.8
-358,"Microflash Air Buds Pro E35 50Hrs Battery Life, High Ba...",699,3.9
-359,"Noise Pure Pods with AirWave technology, 80 Hours Playt...","2,999",3.8
-360,Aroma NB140 Jaguar 50 Hours* Playtime|Deep Bass|Fast Ch...,699,3.7
-361,"truke Yoga Beat Open-Ear Headset with 30H Playtime, Dua...",899,3.9
-362,"boAt Immortal 201 TWS Earbuds w/ 40 hrs Playtime,40 ms ...","1,498",4.1
-363,"boAt Immortal 100 w/ Beast Mode(40ms Low Latency), 30 H...",999,4
-364,"Noise Buds VS102 Neo with 40 Hrs Playtime, Environmenta...","1,099",4
-365,boAt Airdopes 383 Bluetooth Headset,"1,299",3.9
-366,"Mivi DuoPods D3 TWS,13mm Driver,Rich Bass,50H Playtime,...",799,3.8
-367,Aroma NB140 Jaguar 50 Hours* Playtime|Deep Bass|Fast Ch...,699,3.7
-368,"Number Super Buds GT M9 Gaming TWS Earbuds, 60Hr Playba...","1,299",4.2
-369,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
-370,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",698,3.9
-371,"Noise Buds VS102 Elite with 50Hr Playtime, ENC, Quad Mi...","1,299",4
-372,Jlab Go Air Sport Bluetooth Headset,"2,249",3.6
-373,"Number Super Buds Pro GT9 Helmet MEMS ENC Gaming TWS, 4...",999,3.9
-374,"boAt Immortal 150 w/ Beast Mode(40ms Low Latency), 40 H...","1,099",3.9
-375,SONY WF-C500 IPX4/20Hrs Battery Life Bluetooth Headset,"5,490",4.1
+293,"truke Buds Vibe with 35dB ANC, 4Mic ENC, 13mm Speaker, ...",999,4
+294,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
+295,"boAt Airdopes 800 w/ Dolby Audio, 4 Mics AI-ENx Tech, T...","1,799",4
+296,"truke BTG1 Earbuds with Game Mode, 48H Playtime, Quad M...",799,4
+297,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
+298,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
+299,OPPO Enco Air 2 Pro Bluetooth,"2,799",4.3
+300,"Boult Astra Neo 70Hrs Playtime, 4 Mic ENC, BT 5.4, 40ms...",999,4.1
+301,"TRIGGR Ultrabuds N1 Neo with ENC, 40Hr Playback, 13mm D...",699,4.1
+302,"Noise Buds VS102 Neo with 40 Hrs Playtime, Environmenta...",999,4
+303,"boAt Airdopes 118 WROGN Edition w/ 50 HRS Playback, Qua...","1,299",3.6
+304,"Noise Buds VS404 with 50 Hours Playtime, ENC with Quad ...","1,099",3.9
+305,"TECHFIRE Bullets Max TWS Earbuds with 100 HRS Playtime,...",699,3.6
+306,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
+307,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...",999,4.1
+308,"truke Buds Vibe with 35dB ANC, 4Mic ENC, 13mm Speaker, ...",999,4
+309,"CMF by Nothing Buds Pro with 45 dB ANC, Ultra Bass Tech...","2,499",4.1
+310,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+311,"truke BTG Ultra with 60H Playtime, 360Spatial, Low Late...",799,4
+312,"Mivi DuoPods i3 TWS,13mm Bass,45+H Playtime,AI ENC,Low ...",799,4
+313,"Noise Aura Buds with Dual Device Pairing, 60 Hours of P...","1,599",4
+314,Tunifi Classic LB A520 Earbuds/TWs/buds 5.1 Earbuds wit...,709,3.6
+315,"Noise Buds VS102 Plus with 70 Hrs Playtime, Environment...","1,099",3.9
+316,HOUSE OF SOUND NEW FALCON EARBUDS Bluetooth Gaming,599,4
+317,HOPPUP Predator Xo4 Gaming Earbuds with 35MS Low Latenc...,799,4.1
+318,"boAt Immortal 100 w/ Beast Mode(40ms Low Latency), 30 H...",999,4
+319,"boAt Airdopes 300 w/ 4-Mics ENx Technology,Multipoint C...","1,599",3.9
+320,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",599,3.9
+321,"TRIGGR Kraken X1 with Battery Display, 40ms Latency, Qu...",799,4
+322,"Boult Omega with 30dB ANC, Quad Mic ENC, 45ms Latency G...","1,299",3.9
+323,"HOPPUP AirDoze S40 Earbuds with 13MM Drivers, 40H Playt...",699,4
+324,"Boult Y1 Pro with Zen Quad Mic ENC, 60Hrs Battery, Fast...","1,099",4.1
+325,"Boult Curve Buds Pro with 100Hrs Battery, 4 Mic ENC, Lo...",999,3.6
+326,"HOPPUP Xo6 Gaming Earbuds with 35MS Low Latency, RGB LE...",799,3.9
+327,"HOPPUP AirDoze S40 Earbuds with 13MM Drivers, 40H Playt...",599,4
+328,"HOPPUP AirDoze Z51 with 4 Mic ENC, 13MM Drivers, 50H Pl...",799,4
+329,"truke Buds Vibe with 35dB ANC, 4Mic ENC, 13mm Speaker, ...",999,4
+330,"truke BTG1 Earbuds with Game Mode, 48H Playtime, Quad M...",799,4
+331,"TRIGGR Ultrabuds N1 Neo with ENC, 40Hr Playback, 13mm D...",699,4.1
+332,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
+333,OnePlus Buds Z2 with Active Noise cancellation Bluetoot...,"4,690",4.2
+334,"Noise Buds VS401 with 50 Hrs Playtime, Quad Mic with EN...","1,399",4
+335,"boAt Airdopes 71 w/ 40 HRS Playback, ENx Technology & B...","1,299",3.9
+336,"Boult Astra Neo 70Hrs Playtime, 4 Mic ENC, BT 5.4, 40ms...",999,4.1
+337,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+338,"Noise Buds VS102 Pro with ANC (25dB), 70 Hours Playtime...","1,499",3.8
+339,"Mivi DuoPods K5 TWS Earbuds Metallic Finish, HD calling...","1,399",3.9
+340,"truke BTG Ultra with 60H Playtime, 360Spatial, Low Late...",799,4
+341,"HOPPUP AirDoze F50 Earbuds with 40H PlayTime, 40MS Low ...",699,4
+342,ZEBRONICS Sound Bomb 1 Bluetooth,799,3.6
+343,"JBL Vibe Beam TWS, 32Hr Playtime, IP54, Smart Ambient &...","2,599",3.8
+344,"Number SuperBuds 555 with Dual Pair, 66H Battery, 32dB ...","1,499",4.6
+345,"HOPPUP AirDoze F50 Earbuds with 40H PlayTime, 40MS Low ...",699,4
+346,HOPPUP Predator Xo4 Gaming Earbuds with 35MS Low Latenc...,799,4.1
+347,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+348,"truke Buds Q1+ with 80H Playtime, Quad Mic Adv.ENC, 12m...",799,3.7
+349,"truke Buds Freedom OWS with QuadMic PureVoice ENC, 60H ...","1,599",3.9
+350,Tunifi Classic LB A520 Earbuds/TWs/buds 5.1 Earbuds wit...,709,3.6
+351,"Boult Astra with Quad Mic ENC, 48Hrs Battery, Low Laten...","1,499",4.1
+352,"Noise Buds VS404 with 50 Hours Playtime, ENC with Quad ...","1,099",3.9
+353,"Number Super Buds GT M9 Gaming TWS Earbuds, 60Hr Playba...","1,299",4
+354,"Boult X10 Pro with Quad Mic ENC, 45H Battery Life, 50ms...",999,3.9
+355,"Noise Buds Combat with 45 Hours Playtime, Ultra-low Lat...","1,499",3.8
+356,"truke Buds Q1 Lite with Quad-Mic ENC, 48H Playtime, Roy...",699,3.9
+357,"truke Buds Q1 Lite with Quad-Mic ENC, 48H Playtime, Roy...",699,3.9
+358,Portronics Harmonics Twins S3 Smart TWS Bluetooth Earbu...,749,4
+359,"Noise Buds MVP102 with Dual Pairing, 60 Hours Playtime,...","1,399",4
+360,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",599,3.9
+361,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
+362,"Mivi DuoPods i7 TWS,3D Soundstage,High-fidelity Driver,...","1,499",4.1
+363,"Mivi DuoPods i5 TWS,Metallic Finish,13mm Bass,50H Playt...","1,299",4.1
+364,"realme Buds Air 5 Pro with 50dB ANC, 360 Spatial Audio ...","4,999",4.4
+365,"Boult X10 Pro with Quad Mic ENC, 45H Battery Life, 50ms...",999,3.9
+366,"TRIGGR Kraken X1 with Battery Display, 40ms Latency, Qu...",799,4
+367,"HOPPUP Xo6 Gaming Earbuds with 35MS Low Latency, RGB LE...",799,3.9
+368,"truke Buds Liberty OWS with 360SpatialAudio, 60H Playti...","1,499",4.9
+369,"HOPPUP AirDoze F50 Earbuds with 40H PlayTime, 40MS Low ...",699,4
+370,"HOPPUP AirDoze S40 Earbuds with 13MM Drivers, 40H Playt...",599,4
+371,"truke BTG1 Earbuds with Game Mode, 48H Playtime, Quad M...",799,4
+372,"ORAIMO FreePods 3C,Quad ENC Mic, 36Hr Playtime,13mm Dri...","1,299",4
+373,"JBL Vibe Beam TWS, 32Hr Playtime, IP54, Smart Ambient &...","2,599",3.8
+374,"Noise Buds MVP102 with Dual Pairing, 60 Hours Playtime,...","1,399",4
+375,"truke Buds Vibe with 35dB ANC, 4Mic ENC, 13mm Speaker, ...","1,099",4
 376,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
-377,"Boult Y1 Pro with Zen Quad Mic ENC, 60Hrs Battery, Fast...","1,199",4.1
-378,"PTron Bassbuds Joy TWS with 13mm Drivers, Stereo Calls,...",699,3.6
-379,"truke Buds Freedom OWS with QuadMic PureVoice ENC, 60H ...","1,999",3.9
-380,"Boult W40 with Quad Mic ENC, 48H Battery Life, Low Late...","1,299",4.1
-381,"truke Buds F1 Ultra with 60 Hours Playtime, Spatial Aud...",799,3.9
-382,"NOPE Nuclear D1 Gaming TWS Buds 50Hrs Playtime, BT 5.1,...",649,3.6
-383,"Mivi DuoPods i7 TWS,3D Soundstage,High-fidelity Driver,...","1,499",4.1
-384,"Number Super Buds 999 40dB ANC Gaming TWS Earbuds,4 Mic...","1,199",3.8
-385,"truke Buds F1 Ultra with 60 Hours Playtime, Spatial Aud...",849,3.9
-386,"Aroma NB140 Galaxy 50 Hours* Playtime, Deep Bass, Fast ...",701,3.6
-387,Aroma NB140 Matrix 40 Hours*Playtime|Deep Bass | Fast C...,699,3.7
-388,Microflash Air Buds-D79 Upto 30Hrs Playback 13mm Driver...,699,3.8
-389,"HOPPUP AirDoze Z50 with Quad Mic ENC, 13MM Drivers, 50H...",799,3.8
-390,Aroma NB140 Harmony 40 Hours* Playtime|Deep Bass|Fast C...,699,3.4
-391,"Aroma NB140 Galaxy 50 Hours* Playtime, Deep Bass, Fast ...",701,3.6
-392,"truke Buds Vibe with 35dB ANC, 4Mic ENC, 13mm Speaker, ...","1,299",4
-393,HOPPUP Predator Xo7 Gaming Earbuds with 35MS Low Latenc...,899,4
-394,"Boult Airbass Z35 with ZEN ENC Mic, 32H Playtime, 45ms ...",899,3.9
-395,"moto buds with Hi-Res Audio, Large 12.4mm driver, 42 hr...","3,999",3.9
-396,"Noise Buds VS102 Elite with 50Hr Playtime, ENC, Quad Mi...","1,299",4
-397,Aroma NB140 Ranger 50 Hours* Playtime |Perfect for Musi...,699,3.6
-398,"boAt Nirvana Zenith w/ Dolby Audio, ANC(50dB), Adaptive...","3,998",3.8
-399,Aroma NB132 Construct 48 Hours PlayTime Earbuds With 45...,799,3.6
+377,"Boult Astra Neo 70Hrs Playtime, 4 Mic ENC, BT 5.4, 40ms...",999,4.1
+378,SAMSUNG Galaxy Buds2 Pro SM-R510NZAAINU/SM-R510NZAAINS ...,"10,249",4.3
+379,"Microflash Air Buds Pro E35 50Hrs Battery Life, High Ba...",599,3.9
+380,"TRIGGR Ultrabuds N1 Neo with ENC, 40Hr Playback, 13mm D...",699,4.1
+381,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
+382,"moto buds with Hi-Res Audio, Large 12.4mm driver, 42 hr...","2,999",3.9
+383,"Boult Omega with 30dB ANC, Quad Mic ENC, 45ms Latency G...","1,299",3.9
+384,"Boult Curve Buds Pro with 100Hrs Battery, 4 Mic ENC, Lo...",999,3.6
+385,Microflash Air Buds-D79 Upto 30Hrs Playback 13mm Driver...,599,3.8
+386,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...",999,4.1
+387,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+388,"HOPPUP AirDoze S40 Earbuds with 13MM Drivers, 40H Playt...",599,4
+389,HOPPUP Predator Xo4 Gaming Earbuds with 35MS Low Latenc...,799,4.1
+390,"truke BTG Ultra with 60H Playtime, 360Spatial, Low Late...",799,4
+391,HOUSE OF SOUND NEW FALCON EARBUDS Bluetooth Gaming,599,4
+392,"Boult Airbass Z35 with ZEN ENC Mic, 32H Playtime, 45ms ...",799,3.9
+393,"NOPE NUCLEAR 102 TWS 45 Hrs Playtime, Fast Charge, Dual...",599,3.7
+394,"Noise Buds Combat with 45 Hours Playtime, Ultra-low Lat...","1,499",3.8
+395,HOPPUP SYNC with Bluetooth 5.1 & Type C Fast Charging B...,699,3.9
+396,HOPPUP Predator Xo4 Gaming Earbuds with 35MS Low Latenc...,799,4.1
+397,"Boult Astra with Quad Mic ENC, 48Hrs Battery, Low Laten...","1,499",4.1
+398,SAMSUNG Galaxy Buds 2 Bluetooth,"8,998",4.4
+399,CIHYARD Bullets C2 - MAGNETIC POWER OFF/ON 48Hr Playtim...,599,3.6
+400,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",599,3.9
+401,"TRIGGR Kraken X1 with Battery Display, 40ms Latency, Qu...",799,4
+402,"Fire-Boltt Aura TWS Earbuds with 40 Hours Playback, Qua...","1,299",3.8
+403,"Tunifi Gaming Pro 60 with ENC HD+ Calling, Deep Bass, L...",639,3.6
+404,"ORAIMO FreePods Lite Earbuds with 40Hr Playtime,Custom ...",999,3.8
+405,"Fire-Boltt Aura TWS Earbuds with 40 Hours Playback, Qua...","1,299",3.8
+406,"HOPPUP Xo6 Gaming Earbuds with 35MS Low Latency, RGB LE...",799,3.9
+407,"HOPPUP AirDoze S40 Earbuds with 13MM Drivers, 40H Playt...",599,4
+408,Bose NEW QuietComfort Ultra Wireless Noise Cancelling E...,"22,999",4.9
+409,"Mivi DuoPods K6 TWS,Rich Bass,50H Playtime,AI ENC,Low L...","1,399",4
+410,"truke BTG1 Earbuds with Game Mode, 48H Playtime, Quad M...",799,4
+411,"Boult Astra Neo 70Hrs Playtime, 4 Mic ENC, BT 5.4, 40ms...",999,4.1
+412,"TRIGGR Ultrabuds N1 Neo with ENC, 40Hr Playback, 13mm D...",699,4.1
+413,Microflash Air Buds-D79 Upto 30Hrs Playback 13mm Driver...,599,3.8
+414,"JBL Tune Beam Active Noise Cancellation, 48H playtime, ...","5,498",3.8
+415,"Mivi DuoPods K5 TWS Earbuds Metallic Finish, HD calling...","1,399",3.9
+416,"TRIGGR Ultrabuds N1 Neo with ENC, 40Hr Playback, 13mm D...",699,4.1
+417,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
+418,"Noise Pure Pods with AirWave technology, 80 Hours Playt...","2,999",3.8
+419,"boAt Airdopes 300 w/ 4-Mics ENx Technology,Multipoint C...","1,599",3.9
+420,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+421,"truke BTG Ultra with 60H Playtime, 360Spatial, Low Late...",799,4
+422,"SONY WF-C700N Lightest TWS ANC 20Hr battery, In-Ear, 10...","8,990",4
+423,"Mivi DuoPods i3 TWS,13mm Bass,45+H Playtime,AI ENC,Low ...",799,4
+424,"TRIGGR Apex S1 with Dual Pairing, 100H Battery, Quad Mi...",899,4.1
+425,"Blaupunkt BTW09 AIR Truly Wireless BT Earbuds, HD Sound...",869,4
+426,"HOPPUP AirDoze F50 Earbuds with 40H PlayTime, 40MS Low ...",699,4
+427,HOPPUP Predator Xo4 Gaming Earbuds with 35MS Low Latenc...,799,4.1
+428,"Mivi Commando Z7,13mm Drivers Bass,50H Playtime,Dual Mi...","1,499",3.7
+429,OnePlus Buds Pro 3 - Midnight Opus Bluetooth,"11,999",4.7
+430,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+431,"Boult Astra with Quad Mic ENC, 48Hrs Battery, Low Laten...","1,499",4.1
+432,"boAt Immortal 150 w/ Beast Mode(40ms Low Latency), 40 H...","1,499",3.9
+433,HOPPUP SYNC with Bluetooth 5.1 & Type C Fast Charging B...,699,3.9
+434,Fire-Boltt Fire Pods Ninja G201 Earbuds TWS IWP HD Call...,"1,199",4
+435,CIHYARD Bullets C2 - MAGNETIC POWER OFF/ON 48Hr Playtim...,599,3.6
+436,Tunifi Classic LB A520 Earbuds/TWs/buds 5.1 Earbuds wit...,709,3.6
+437,"truke Buds Q1 Lite with Quad-Mic ENC, 48H Playtime, Roy...",699,3.9
+438,"Fire-Boltt Game Pods Ninja 601 Earbuds TWS, Voice Assis...","1,299",3.8
+439,"moto buds with Hi-Res Audio, Large 12.4mm driver, 42 hr...","2,999",3.9
+440,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",599,3.9
+441,"TRIGGR Kraken X1 with Battery Display, 40ms Latency, Qu...",799,4
+442,Hammer Screen TWS with ANC + ENC Bluetooth,"2,499",3.7
+443,"JBL Wave 300 TWS, 26Hr Playtime, Open-Ear Design, Epic ...","3,099",3.8
+444,SONY WF-1000XM4 with 36 Hrs Playtime and Industry Leadi...,"19,990",4.1
+445,"Noise Buds Xero with adaptive ANC(50dB), Sound+TM algor...","3,999",4
+446,"HOPPUP Xo6 Gaming Earbuds with 35MS Low Latency, RGB LE...",799,3.9
+447,"HOPPUP AirDoze S40 Earbuds with 13MM Drivers, 40H Playt...",599,4
+448,"boAt Airdopes 131 PRO with 11mm Drivers,45Hrs Playback,...","1,299",3.9
+449,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
+450,"truke BTG1 Earbuds with Game Mode, 48H Playtime, Quad M...",799,4
+451,"Boult Astra Neo 70Hrs Playtime, 4 Mic ENC, BT 5.4, 40ms...",999,4.1
+452,"Mivi DuoPods i5 TWS,Metallic Finish,13mm Bass,50H Playt...","1,299",4.1
+453,"Tunifi A520 Earbuds 13mm HD Dynamic Driver, Touch Contr...",729,3.7
+454,"WINGS Phantom 860 Earbuds with Game mode, 50 hrsPlaytim...",899,3.9
+455,"Mivi DuoPods F70 ENC with Quad Mic, 50+ Hrs Playtime| M...","1,499",3.9
+456,"TRIGGR Ultrabuds N1 Neo with ENC, 40Hr Playback, 13mm D...",699,4.1
+457,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
+458,"boAt Immortal 121 with Beast Mode(40ms Low Latency),RGB...","1,699",4
+459,boAt Airdopes 381 with upto 20 Hours Playback and ASAP ...,"2,399",3.9
+460,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+461,"truke BTG Ultra with 60H Playtime, 360Spatial, Low Late...",799,4
+462,"Noise Buds VS401 with 50 Hrs Playtime, Quad Mic with EN...","1,399",4
+463,"Mivi DuoPods K6 TWS,Rich Bass,50H Playtime,AI ENC,Low L...","1,399",4
+464,CIHYARD Bullets C2 - MAGNETIC POWER OFF/ON 48Hr Playtim...,590,3.6
+465,"Sennheiser Momentum True Wireless 4 wuth Bluetooth 5.4,...","19,990",3.5
+466,"HOPPUP AirDoze F50 Earbuds with 40H PlayTime, 40MS Low ...",699,4
+467,HOPPUP Predator Xo4 Gaming Earbuds with 35MS Low Latenc...,799,4.1
+468,boAt Airdopes 161 ANC w/ Active Noise Cancellation(32dB...,"1,699",3.8
+469,"NOPE SONIC X1 TWS 50 Hrs Playtime, Ultra Low Latency 35...",699,3.7
+470,"Boult Astra with Quad Mic ENC, 48Hrs Battery, Low Laten...","1,499",4.1
+471,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+472,"Microflash L95 Up to 48hrs Playback, High Bass, Clear S...",614,3.9
+473,"JBL Live Beam 3, Hi-Res LDAC Audio ANC TWS, SmartCase,4...","14,999",4.2
+474,"JBL Live Pro 2, Active Adaptive Noise Cancellation, 40H...","9,998",4.3
+475,"NOPE Nuclear D1 Gaming TWS Buds 50Hrs Playtime, BT 5.1,...",649,3.7
+476,Tunifi Classic LB A520 Earbuds/TWs/buds 5.1 Earbuds wit...,709,3.6
+477,"truke Buds Q1 Lite with Quad-Mic ENC, 48H Playtime, Roy...",699,3.9
+478,"Noise Buds Combat Z with 50 Hours Playtime, Ultra-low L...","1,499",3.9
+479,"truke BTG Flex buds with Dual Pairing, 60Hrs Battery, H...","1,099",4.3
+480,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",599,3.9
+481,"TRIGGR Kraken X1 with Battery Display, 40ms Latency, Qu...",799,4
+482,"Mivi DuoPods i3 TWS,13mm Bass,45+H Playtime,AI ENC,Low ...","1,199",4
+483,"Fire-Boltt Fire Pods Ninja Pro 401 Earbuds TWS, IWP, Su...","1,099",3.9
+484,"truke Yoga Beat Open-Ear Headset with 30H Playtime, Dua...",799,3.9
+485,"TRIGGR Apex S2 with Dual Pairing, 60H Battery, Quad Mic...","1,199",4.1
+486,"HOPPUP Xo6 Gaming Earbuds with 35MS Low Latency, RGB LE...",799,3.9
+487,"HOPPUP AirDoze S40 Earbuds with 13MM Drivers, 40H Playt...",599,4
+488,Fire-Boltt Ninja Pro 403 Bluetooth,"1,299",4
+489,Unix Wireless Buds Pro 2 with 40 hours Battery life & Q...,880,3.9
+490,"truke BTG1 Earbuds with Game Mode, 48H Playtime, Quad M...",799,4
+491,"Boult Astra Neo 70Hrs Playtime, 4 Mic ENC, BT 5.4, 40ms...",999,4.1
+492,"Noise Buds VS102 Elite with 50Hr Playtime, ENC, Quad Mi...","1,299",4
+493,"Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass,Made...",699,3.9
+494,"TRIGGR Apex S1 with Dual Pairing, 100H Battery, Quad Mi...",899,4.1
+495,"boAt Nirvana Zenith w/ Dolby Audio, ANC(50dB), Adaptive...","3,999",3.7
+496,"TRIGGR Ultrabuds N1 Neo with ENC, 40Hr Playback, 13mm D...",699,4.1
+497,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
+498,"boAt Airdopes Bliss ANC TWS Earbuds w/ ANC(32dB), 42 HR...","1,999",3.5
+499,"Mivi DuoPods i7 TWS,3D Soundstage,High-fidelity Driver,...","1,499",4.1
+500,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+501,"truke BTG Ultra with 60H Playtime, 360Spatial, Low Late...",799,4
+502,"Noise Buds MVP102 with Dual Pairing, 60 Hours Playtime,...","1,399",4
+503,"boAt Airdopes Atom 83 with 50Hrs Playback, Quad Mics EN...","1,499",3.8
+504,"HOPPUP AirDoze Z50 with Quad Mic ENC, 13MM Drivers, 50H...",799,3.9
+505,"Mivi DuoPods K5 TWS Earbuds Metallic Finish, HD calling...",899,3.9
+506,"HOPPUP AirDoze F50 Earbuds with 40H PlayTime, 40MS Low ...",699,4
+507,HOPPUP Predator Xo4 Gaming Earbuds with 35MS Low Latenc...,799,4.1
+508,"Mivi DuoPods i3 TWS,13mm Bass,45+H Playtime,AI ENC,Low ...",799,4
+509,"PTron Basspods Torq Gaming Earbuds with AI-ENC Calls, 4...",999,3.5
+510,"Boult Astra with Quad Mic ENC, 48Hrs Battery, Low Laten...","1,499",4.1
+511,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+512,"Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass,Made...",699,3.9
+513,"HOPPUP Xo6 Gaming Earbuds with 35MS Low Latency, RGB LE...",799,3.9
+514,"JBL Live Pro 2, Active Adaptive Noise Cancellation, 40H...","9,999",4.3
+515,boAt Airdopes 381 Bluetooth,"1,999",3.9
+516,Tunifi Classic LB A520 Earbuds/TWs/buds 5.1 Earbuds wit...,709,3.6
+517,"truke Buds Q1 Lite with Quad-Mic ENC, 48H Playtime, Roy...",699,3.9
+518,"ORAIMO FreePods Lite Earbuds with 40Hr Playtime,Custom ...",999,3.8
+519,"Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass,Made...",699,3.9
+520,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",599,3.9
+521,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
+522,"Tunifi A520 Earbuds 13mm HD Dynamic Driver, Touch Contr...",729,3.7
+523,"Sennheiser Momentum True Wireless 4 wuth Bluetooth 5.4,...","19,990",3.5
+524,Mivi DuoPods F40 with 50 Hrs Playtime I13mm Drivers|Mad...,"1,199",3.7
+525,"Number Super Buds 999 40dB ANC Gaming TWS Earbuds,4 Mic...","1,199",3.8
+526,"Boult Astra with Quad Mic ENC, 48Hrs Battery, Low Laten...","1,499",4.1
+527,"TRIGGR Kraken X1 with Battery Display, 40ms Latency, Qu...",799,4
+528,"TECHFIRE Bullets Max TWS Earbuds with 100 HRS Playtime,...",699,3.6
+529,"HOPPUP AirDoze Z50 with Quad Mic ENC, 13MM Drivers, 50H...",799,3.9
+530,"HOPPUP Xo6 Gaming Earbuds with 35MS Low Latency, RGB LE...",799,3.9
+531,"HOPPUP AirDoze S40 Earbuds with 13MM Drivers, 40H Playt...",599,4
+532,"ORAIMO FreePods 4, Custom EQ modes App, 30dB ANC, 4 Mic...","1,999",4
+533,Mivi Duopods F30 with 42 hours battery Fast Charging TW...,999,3.9
+534,"Noise Buds VS102 Elite with 50Hr Playtime, ENC, Quad Mi...","1,299",4
+535,"boAt Airdopes 800 w/ Dolby Audio, 4 Mics AI-ENx Tech, T...","1,799",4
+536,"truke BTG1 Earbuds with Game Mode, 48H Playtime, Quad M...",799,4
+537,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
+538,boAt Airdopes 163 Bluetooth,"1,399",4
+539,"Mivi DuoPods i4 TWS,Quad-mic ENC,13mm Bass,50+ Hrs Play...","1,299",3.7
+540,"Boult Astra Neo 70Hrs Playtime, 4 Mic ENC, BT 5.4, 40ms...",999,4.1
+541,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
+542,WINGS Flobuds 300 Made In India TWS Earbuds with Leathe...,999,3.8
+543,"Skullcandy Smokin Buds Wireless Earbuds, 20 Hr Battery,...","2,699",3.5
+544,"Mivi DuoPods i2 TWS,13mm Bass,45H Playtime,Dual Mic AI ...",999,4
+545,Tunifi Premium P30 Pro Earbuds/TWs/buds 5.2 Earbuds wit...,800,4.4
+546,"TRIGGR Ultrabuds N1 Neo with ENC, 40Hr Playback, 13mm D...",699,4.1
+547,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...",999,4.1
+548,"Chaebol H700 XPods Pro Airpods with 13mm Drivers, 48H B...",822,4.3
+549,"TRIGGR Apex S2 with Dual Pairing, 60H Battery, Quad Mic...","1,199",4.1
+550,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+551,"truke BTG Ultra with 60H Playtime, 360Spatial, Low Late...",799,4
+552,"DIGIBUDS T2 TWS Earbuds with Power-Bank, 40Hrs. Playtim...",641,3.1
+553,"HOPPUP AirDoze D50 Earbuds with upto 50H Playtime, ENC,...",899,3.7
+554,"beatXP Echo XPods with 70H Playtime, Quad Mic ENC & Gam...",999,3.7
+555,"Mivi Commando X9 Earbuds, Dual RGB Lights, 35ms Low Lat...","1,999",3.8
+556,HOUSE OF SOUND NEW FALCON EARBUDS Bluetooth Gaming,599,4
+557,HOPPUP Predator Xo4 Gaming Earbuds with 35MS Low Latenc...,799,4.1
+558,"truke BTG Beta with 13mm Titanium Drivers, 38H Playtime...",699,3.6
+559,"Nu Republic Epic X3 with Upto 48 hrs Playtime, X-Bass® ...","1,199",3.9
+560,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",599,3.9
+561,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
+562,"JBL Tune Beam Active Noise Cancellation, 48H playtime,J...","5,499",3.8
+563,"Mivi DuoPods K6 TWS,Rich Bass,50H Playtime,AI ENC,Low L...","1,399",4
+564,SAMSUNG Galaxy Buds2 Pro SM-R510NZAAINU- Bluetooth,"12,999",4.4
+565,"Cosmic Byte CosmoBuds X200, BT 5.3, 40 Hrs, 38ms, GOD M...","1,999",3.8
+566,"Boult Astra with Quad Mic ENC, 48Hrs Battery, Low Laten...","1,499",4.1
+567,"TRIGGR Kraken X1 with Battery Display, 40ms Latency, Qu...",799,4
+568,"boAt Nirvana Ion 32dB Active Noise Cancellation, 120HRS...","2,499",4.1
+569,"TECHFIRE Bullets 201 TWS Earbuds with 100 HRS Playtime,...",699,3.1
+570,"HOPPUP Xo6 Gaming Earbuds with 35MS Low Latency, RGB LE...",799,3.9
+571,"HOPPUP AirDoze S40 Earbuds with 13MM Drivers, 40H Playt...",599,4
+572,"Aroma NB126 Prime Upto 60 Hours* Playtime, Dual Pairing...",599,3.5
+573,"Skullcandy Dime 3 Earbuds, 20 Hr Battery, Microphone, W...","3,299",3.5
+574,"boAt Airdopes 300 w/ 4-Mics ENx Technology,Multipoint C...","1,599",3.9
+575,"Noise Buds Venus with ANC (30dB), 40 Hours Playtime, an...","1,899",3.8
+576,"truke BTG1 Earbuds with Game Mode, 48H Playtime, Quad M...",799,4
+577,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
+578,"boAt Airdopes Atom 83 with 50Hrs Playback, Quad Mics EN...","1,499",3.8
+579,"TRIGGR Kraken X2 Quad Mic ENC, 40 Hr Battery, Rapid Pai...","1,099",4
+580,"Boult Astra Neo 70Hrs Playtime, 4 Mic ENC, BT 5.4, 40ms...",999,4.1
+581,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
+582,"PTron Basspods Torq Gaming Earbuds with AI-ENC Calls, 4...",999,3.5
+583,"Boult XPods Pro with Zen ENC Mic, Mega 13mm Drivers, 20...",999,3.7
+584,"Portronics Harmonics Twins S6 Smart TWS Earbuds,50Hrs P...","1,065",3.5
+585,"HOPPUP AirDoze Q505 Earbuds with Quad Mic ENC, 50H Play...",699,3.7
+586,"TRIGGR Ultrabuds N1 Neo with ENC, 40Hr Playback, 13mm D...",699,4.1
+587,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...",999,4.1
+588,"Mivi Commando X7,35ms Low Latency,13mm Bass,50H Playtim...",799,3.9
+589,"Skullcandy Smokin Buds Wireless Earbuds, 20 Hr Battery,...","2,699",3.5
+590,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+591,"truke BTG Ultra with 60H Playtime, 360Spatial, Low Late...",799,4
+592,"JBL Live Pro 2, Active Adaptive Noise Cancellation, 40H...","9,999",4.3
+593,"JBL Vibe Beam TWS, 32Hr Playtime, IP54, Smart Ambient &...","2,599",3.8
+594,"Mivi DuoPods i7 TWS,3D Soundstage,High-fidelity Driver,...","1,499",4.1
+595,Beats Solo Buds USB-C case with Fast Charge Bluetooth,"6,900",3
+596,HOUSE OF SOUND NEW FALCON EARBUDS Bluetooth Gaming,599,4
+597,HOPPUP Predator Xo4 Gaming Earbuds with 35MS Low Latenc...,799,4.1
+598,Soundcore by Anker Liberty 2 Pro with In-ear Studio Per...,"9,999",4.2
+599,"Mivi DuoPods i7 TWS,3D Soundstage,High-fidelity Driver,...","1,499",4.1
+600,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",599,3.9
+601,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
+602,boAt Airdopes 411ANC with upto 17.5 Hours Playback and ...,"1,999",3.9
+603,"truke BTG Alpha Earbuds with Game Mode, 38H Playtime, 7...",699,3.9
+604,Bassflex Q31 Tws Wireless Gaming Earbuds 40MS Low Laten...,751,3.6
+605,ZEBRONICS Sound Bomb X1 - Black Bluetooth,999,3.6
+606,"TRIGGR Kraken X1 with Battery Display, 40ms Latency, Qu...",799,4
+607,"HOPPUP Xo6 Gaming Earbuds with 35MS Low Latency, RGB LE...",799,3.9
+608,Aroma NB126 King Kong Upto 60 Hours Playtime TypeC Fast...,599,3.7
+609,"WINGS Flobuds 335 Made In India, Smart ENC High Fidelit...",999,3.9
+610,"HOPPUP AirDoze S40 Earbuds with 13MM Drivers, 40H Playt...",599,4
+611,"truke BTG1 Earbuds with Game Mode, 48H Playtime, Quad M...",799,4
+612,ZEBRONICS ZEB-PARADISE Bluetooth,819,3.7
+613,TEMPT Glider True Wireless Stereo with OxyAcoustics Pur...,"2,087",4.3
+614,"NOPE SPARK 101 TWS 50 Hrs Playtime, Fast Charge, Quad M...",749,4
+615,"HOPPUP AirDoze Grand Pro with Power Bank Function, 200 ...",899,3.9
+616,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
+617,"Boult Astra Neo 70Hrs Playtime, 4 Mic ENC, BT 5.4, 40ms...",999,4.1
+618,"ONYZE ON901-ARMOR Gaming Earbuds,50HPlaytime,Made in IN...",797,3.9
+619,"beatXP Pulse XPods with 40H Playtime, Dual Mic AI ENC, ...",999,3.7
+620,"TRIGGR Ultrabuds N1 Neo with ENC, 40Hr Playback, 13mm D...",699,4.1
+621,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
+622,"Fire-Boltt Aura TWS Earbuds with 40 Hours Playback, Qua...","1,299",3.8
+623,"Bose NEW QuietComfort Ultra Noise Cancelling Earbuds,Sp...","25,900",4.9
+624,"Tunifi A520 Earbuds 13mm HD Dynamic Driver, Touch Contr...",729,3.7
+625,"Cellecor BroPods CB11 TWS With 45 Hrs, ENC, 13mm Driver...",999,4.1
+626,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...",999,4.1
+627,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+628,"Fire-Boltt Game Pods Ninja 601 Earbuds TWS, Voice Assis...","1,299",3.8
+629,"Earboss Music Air-Doze with Game Mode(45ms), Quad Mic E...",628,3.7
+630,"truke BTG Ultra with 60H Playtime, 360Spatial, Low Late...",799,4
+631,HOUSE OF SOUND NEW FALCON EARBUDS Bluetooth Gaming,599,4
+632,LAVA Probuds Bluetooth Gaming,"2,199",3.9
+633,"HOPPUP SNAP with Gaming Mode, Fast Charging, ENC, Immer...",799,3.9
+634,"JBL Tune Beam Active Noise Cancellation, 48H playtime,S...","5,499",3.8
+635,"Fire-Boltt Fire Pods Ninja Pro 403 Earbuds TWS, ENC & G...","1,299",4
+636,HOPPUP Predator Xo4 Gaming Earbuds with 35MS Low Latenc...,799,4.1
+637,"Boult Astra with Quad Mic ENC, 48Hrs Battery, Low Laten...","1,499",4.1
+638,PTron Basspods Spell In-Ear TWS Earbuds with TruTalk AI...,808,3.6
+639,NEXTGEN Feel the Power Stereo Bluetooth V5.1 30Hours Pl...,"1,157",4
+640,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",599,3.9
+641,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
+642,Tunifi LB PRO 60 Earbuds/TWs/buds 5.1 Earbuds with 300H...,667,3.8
+643,Qexle New YO YO 48 Hr True Wireless Earbuds In Ear Blue...,799,5
+644,Beats Studio Buds Bluetooth In Ear Earbuds with Mic Blu...,"10,999",4
+645,Tunifi Premium N21 Earbuds/TWs/buds 5.1 Earbuds with 30...,720,3.6
+646,"TRIGGR Kraken X1 with Battery Display, 40ms Latency, Qu...",799,4
+647,"HOPPUP Xo6 Gaming Earbuds with 35MS Low Latency, RGB LE...",799,3.9
+648,"truke Air Buds with Quad Mic ENC & 20 EQ modes, 10mm Dr...",899,3.8
+649,SpinBot BattleBudz NX550 Ultra Low Latency Gaming Neckb...,784,3.7
+650,"HOPPUP AirDoze S40 Earbuds with 13MM Drivers, 40H Playt...",599,4
+651,"truke BTG1 Earbuds with Game Mode, 48H Playtime, Quad M...",799,4
+652,"Tunifi MS 771 Hook Earbuds 8D Stereo Audio, 48Hrs Playt...",599,4
+653,"Mivi Commando X9 Earbuds, Dual RGB Lights, 35ms Low Lat...","1,999",3.8
+654,Urban Vibe Loop Air Conduction OWS Earbuds For Workout ...,"2,519",4.4
+655,Aroma NB126 Beast 40 Hours* Playtime | Perfect for Musi...,599,3.6
+656,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
+657,"Boult Astra Neo 70Hrs Playtime, 4 Mic ENC, BT 5.4, 40ms...",999,4.1
+658,Syska SonicBuds X1 Bluetooth Gaming,899,3.7
+659,"Ycom Rockin 42H Playtime with Fast Charge, Built in ENC...",729,3.7
+660,"TRIGGR Ultrabuds N1 Neo with ENC, 40Hr Playback, 13mm D...",699,4.1
+661,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
+662,"Ycom NovaX - 42H Playtime With ENC, IPX-5 Water Resista...",779,3.9
+663,"Noise Buds Venus with ANC (30dB), 40 Hours Playtime, an...","1,899",3.8
+664,"Infinix Buds Neo(XE26) with 4 Mic ENC, Dedicated App We...","1,399",3.7
+665,"Boult X10 TWS with 45Hrs Playtime, ENC Mic, 40ms Lowest...",799,3.9
+666,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...",999,4.1
+667,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+668,"Nu Republic Starbuds Z with 56 Hr Playtime, X-Bass® Tec...",899,4
+669,"truke Buds S2 Lite with Quad-Mic ENC, 48H Playtime, Mad...",899,3.9
+670,"truke BTG Ultra with 60H Playtime, 360Spatial, Low Late...",799,4
+671,HOUSE OF SOUND NEW FALCON EARBUDS Bluetooth Gaming,599,4
+672,CIHYARD Bullets C2 - MAGNETIC POWER OFF/ON 48Hr Playtim...,599,3.5
+673,TecSox Audio X Wireless Earbuds| IPX| 30hrs Best Low La...,749,4.2
+674,"Mozu Flexibuds Klear with ENC,Mems Mic,Game Mode,Low La...",799,4
+675,Blaupunkt BTW12 KHROME Bassbuds Truly Wireless BT Earbu...,"1,019",4
+676,HOPPUP Predator Xo4 Gaming Earbuds with 35MS Low Latenc...,799,4.1
+677,"Boult Astra with Quad Mic ENC, 48Hrs Battery, Low Laten...","1,499",4.1
+678,"Microflash L95, ENC Upto 50hrs Playtime, High Bass, Cle...",617,3.9
+679,TIMBRESONIC FlyPod True Wireless Earbuds Bluetooth,699,3.6
+680,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",599,3.9
+681,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
+682,"Alfanso Earbuds White, With Wireless Charging Case Blue...",599,3.3
+683,ZEBRONICS Zeb-Yoga N3 Bluetooth,799,3.8
+684,"PTron Basspods P251+, 50Hrs Playback, 12mm Driver, ENC,...",999,3.7
+685,"beatXP Wave XPods with 50H Playtime, Quad Mic ENC, Gami...",999,3.8
+686,"TRIGGR Kraken X1 with Battery Display, 40ms Latency, Qu...",799,4
+687,"HOPPUP Xo6 Gaming Earbuds with 35MS Low Latency, RGB LE...",799,3.9
+688,"Fire-Boltt Fire Pods Polaris ANC ENC Earbuds TWS, about...","2,082",3.7
+689,"ORAIMO FreePods 4 30db ANC Earbuds with 35.5h Playtime,...","1,999",4
+690,"HOPPUP AirDoze S40 Earbuds with 13MM Drivers, 40H Playt...",599,4
+691,"truke BTG1 Earbuds with Game Mode, 48H Playtime, Quad M...",799,4
+692,"Tunifi Gaming P30 with 40H Playtime, Quad Mic ENC, Game...",849,4
+693,wazny YO-TWS In-Ear Earbuds Wireless Earphones Stereo B...,794,3.7
+694,"Sennheiser Momentum True Wireless 4 wuth Bluetooth 5.4,...","19,990",3.5
+695,"Edyell V2 Earbuds with Earhook, 3D Stereo Sound, 50 HRS...","1,898",4.5
+696,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
+697,"Boult Astra Neo 70Hrs Playtime, 4 Mic ENC, BT 5.4, 40ms...",999,4.1
+698,"boAt Airdopes 155 w/ 40 hrs Playtime,In-Ear Detection,Q...","1,399",3.6
+699,"Infinix Buds Neo(XE26) with 4 Mic ENC, Dedicated App We...","1,399",3.7
+700,"TRIGGR Ultrabuds N1 Neo with ENC, 40Hr Playback, 13mm D...",699,4.1
+701,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
+702,"HOPPUP AirDoze Rebellion Earbuds with 4 Mic ENC, 13MM D...",799,4.3
+703,"Noise Buds Venus with ANC (30dB), 40 Hours Playtime, an...","1,899",3.8
+704,retold Ubon White BT-50 Truly Wireless Earbuds With Adv...,"1,388",4
+705,"TEMPT Dots TWS with 13mm Drivers, 15 Hours of Play Time...",699,3.7
+706,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...",999,4.1
+707,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+708,"Mivi Commando Z7,13mm Drivers Bass,50H Playtime,Dual Mi...","1,499",3.7
+709,boAt Airdopes 381 with upto 20 Hours Playback and ASAP ...,"2,399",4
+710,"truke BTG Ultra with 60H Playtime, 360Spatial, Low Late...",799,4
+711,HOUSE OF SOUND NEW FALCON EARBUDS Bluetooth Gaming,599,4
+712,"Mivi DuoPods i5 TWS,Metallic Finish,13mm Bass,50H Playt...","1,499",4.1
+713,Chaebol New Original High Bass Pro Bluetooth 5.0 Earpho...,899,4.2
+714,SENS HENDRIK 1 TWS Graphene Composite Drivers Bluetooth,"1,599",3.8
+715,Tunifi Buds A520 with 42 hours battery Fast Charging TW...,709,3.5
+716,HOPPUP Predator Xo4 Gaming Earbuds with 35MS Low Latenc...,799,4.1
+717,"Boult Astra with Quad Mic ENC, 48Hrs Battery, Low Laten...","1,499",4.1
+718,OnePlus Buds Pro 3 - Lunar Rediance Bluetooth,"11,999",4.7
+719,Bose Ultra Open Earbuds Bluetooth,"25,900",4
+720,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",599,3.9
+721,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
+722,"HOPPUP AirDoze Z50 with Quad Mic ENC, 13MM Drivers, 50H...",799,3.9
+723,Beats Solo Buds USB-C case with Fast Charge Bluetooth,"6,900",3
+724,Beats Studio Buds Bluetooth Truly Wireless In Ear Earbu...,"10,999",4
+725,LAVA Probuds 21 Bluetooth,"1,299",3.8
+726,"TRIGGR Kraken X1 with Battery Display, 40ms Latency, Qu...",799,4
+727,"HOPPUP Xo6 Gaming Earbuds with 35MS Low Latency, RGB LE...",799,3.9
+728,WINGS Flobuds 400 Made In India High Fidelity Smart ENC...,999,3.7
+729,"JBL Tune Flex TWS with ANC, Customizable Eartips, 32H P...","6,999",3.7
+730,"HOPPUP AirDoze S40 Earbuds with 13MM Drivers, 40H Playt...",599,4
+731,"truke BTG1 Earbuds with Game Mode, 48H Playtime, Quad M...",799,4
+732,"Aroma NB126 London Upto 50 Hours Playtime, Type C Fast ...",599,3.5
+733,Blaupunkt BTW09 AIR BK Bluetooth Gaming,859,4
+734,MadRabbit Drift X Pro Quad ENC Bluetooth,"1,234",3.3
+735,boAt Airdopes 411ANC Netflix Edition with Active Noise ...,"2,999",3.9
+736,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
+737,"Boult Astra Neo 70Hrs Playtime, 4 Mic ENC, BT 5.4, 40ms...",999,4.1
+738,Tunifi Classic X series N21 Earbuds/TWs/buds 5.3 Earbud...,728,3.7
+739,truke Fit 1 Bluetooth,699,3.9
+740,"TRIGGR Ultrabuds N1 Neo with ENC, 40Hr Playback, 13mm D...",699,4.1
+741,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
+742,"AMS Nexus series TWS X36 Earbuds 24Hrs Playtime,IPX5,Ul...",600,3.5
+743,"WINGS Flobuds 335 Made In India, Smart ENC High Fidelit...",999,3.9
+744,"Ycom NovaX - 42H Playtime With ENC, IPX-5 Water Resista...",778,3.9
+745,ZEBRONICS Zeb-Yoga N3 Bluetooth,"1,099",3.8
+746,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...",999,4.1
+747,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+748,CIHYARD Bullets C2 - MAGNETIC POWER OFF/ON 48Hr Playtim...,599,3.8
+749,Fire-Boltt Fire Pods Atlas ANC ENC Earbuds TWS Transpar...,"2,799",3.8
+750,"truke BTG Ultra with 60H Playtime, 360Spatial, Low Late...",799,4
+751,HOUSE OF SOUND NEW FALCON EARBUDS Bluetooth Gaming,599,4
+752,"Boult K20 with Quad Mic ENC, 32H Battery Life, Low Late...",999,3.9
+753,"Mozu Flexibuds Klear with ENC,Mems Mic,Game Mode,Low La...",799,4
+754,Aroma NB126 Mexico Upto 50 Hours Playtime Type C Fast C...,599,3.6
+755,"MSNR R-22 Blue TWS AIRPODS, High Bass+ 48 Hours Playtim...",759,5
+756,HOPPUP Predator Xo4 Gaming Earbuds with 35MS Low Latenc...,799,4.1
+757,"Boult Astra with Quad Mic ENC, 48Hrs Battery, Low Laten...","1,499",4.1
+758,Mivi DuoPods F40 with 50 Hrs Playtime I13mm Drivers|Mad...,"1,199",3.7
+759,"Grooves Ultra Luxury,120 Hr Playtime 49db Anc,Fast Char...","1,200",4.5
+760,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",599,3.9
+761,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
+762,"Tunifi P30 with 40H Playtime, Quad Mic ENC, Game Mode, ...",800,3.9
+763,Tunifi Classic A-520 Earbuds/TWs/buds 5.3 Earbuds with ...,849,3.6
+764,"HOPPUP AirDoze Z50 with Quad Mic ENC, 13MM Drivers, 50H...",799,3.9
+765,"truke Buds S1 with Quad Mic ENC, 72 Hours Playtime, 10m...","1,399",4
+766,"Boult Astra with Quad Mic ENC, 48Hrs Battery, Low Laten...","1,499",4.1
+767,"TRIGGR Kraken X1 with Battery Display, 40ms Latency, Qu...",799,4
+768,"WINGS Hypebuds 230 TWS earphones, Best TWS earbuds with...","1,299",3.7
+769,"HOPPUP AirDoze H30 Earbuds with upto 30H Playtime, ENC ...",899,3.7
+770,"HOPPUP Xo6 Gaming Earbuds with 35MS Low Latency, RGB LE...",799,3.9
+771,"HOPPUP AirDoze S40 Earbuds with 13MM Drivers, 40H Playt...",599,4
+772,"Infinix XE 27 with Hybrid ANC, 4-Mic ENC, Voice Through...","1,699",4.6
+773,Beats Powerbeats Pro Bluetooth,"21,500",4.1
+774,Modorwy Ultrapods Pro Earbuds with Touch Control & 20 H...,599,4.7
+775,"ORAIMO FreePods Lite Earbuds with 40Hr Playtime,Custom ...",999,3.8
+776,"truke BTG1 Earbuds with Game Mode, 48H Playtime, Quad M...",799,4
+777,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
+778,"moto buds with Hi-Res Audio, Large 12.4mm driver, 42 hr...","2,999",3.9
+779,Alible AirPro Screen Earbuds Wireless Bluetooth,"2,011",3.5
+780,"Boult Astra Neo 70Hrs Playtime, 4 Mic ENC, BT 5.4, 40ms...",999,4.1
+781,"TRIGGR Ultrabuds N1 Neo with ENC, 40Hr Playback, 13mm D...",699,4.1
+782,"Boult Y1 Pro with Zen Quad Mic ENC, 60Hrs Battery, Fast...","1,099",3.9
+783,"SONY WF-LS900N Battery Life: 20hours, Noise Cancellatio...","16,990",4.1
+784,"Grooves Ultra Luxury,120 Hr Playtime 49db Anc,Fast Char...","1,200",4.5
+785,"TEMPT Dots TWS with 13mm Drivers, 15 Hours of Play Time...",699,3.7
+786,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
+787,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...",999,4.1
+788,"Nu Republic Urban 4 with upto 30 hrs Playtime, X-Bass, ...","1,299",4.5
+789,"Mivi DuoPods F70 ENC with Quad Mic, 50+ Hrs Playtime| M...","1,499",3.9
+790,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+791,"truke BTG Ultra with 60H Playtime, 360Spatial, Low Late...",799,4
+792,Cellecor BroPods CB03 Waterproof Earbuds With 30 Hours ...,986,3.7
+793,"Mivi Commando Z9,13mm Bass,72H Playtime,Quad Mic ENC,35...","1,999",3.8
+794,Benling SkyPods with Noise Cancellation Bluetooth V5.3 ...,799,3.8
+795,JABRA Elite 85t with Advanced Active Noise Cancellation...,"17,999",3.5
+796,HOUSE OF SOUND NEW FALCON EARBUDS Bluetooth Gaming,599,4
+797,HOPPUP Predator Xo4 Gaming Earbuds with 35MS Low Latenc...,799,4.1
+798,"ZEBRONICS Zeb Yoga N3 DC AQUAMAN Edition,Neckband,ENC,G...","1,099",3.8
+799,Qexle Launch New YOYO PODS Bluetooth Earbud TWS with BT...,799,5
+800,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",599,3.9
+801,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
+802,"ELIIDE Truly Wireless Earbuds with Gaming Low Latency, ...",849,4
+803,UPOZA ULTRAPODS PRO AI Calling Neckband Airbuds TWS Ear...,599,3.5
+804,TecSox UltraPods pro Bluetooth Earphone In Ear Comforta...,599,3.5
+805,"HOPPUP AirDoze D505 TWS Earbuds with 50H PlayTime,Rage ...",899,3.8
+806,"Boult Astra with Quad Mic ENC, 48Hrs Battery, Low Laten...","1,499",4.1
+807,"TRIGGR Kraken X1 with Battery Display, 40ms Latency, Qu...",799,4
+808,Digiwins Classic LB N21 Earbuds/TWs/buds 5.1 Earbuds wi...,769,3.4
+809,"Zusix AirTone Mini with 30 Hours Music Time, Deep Bass,...",649,3.7
+810,"HOPPUP Xo6 Gaming Earbuds with 35MS Low Latency, RGB LE...",799,3.9
+811,"HOPPUP AirDoze S40 Earbuds with 13MM Drivers, 40H Playt...",599,4
+812,"Noise Buds Verve with 45 Hrs Playtime, Environmental No...","1,499",3.8
+813,WeCool Moonwalk M3 True Wireless Bluetooth Earbuds with...,799,3.9
+814,"Mozu Flexibuds Xine with ENC,Mems Mic,13MM Driver,Gamin...",899,3.4
+815,retold Ubon Air Tiger BT-50 Truly Wireless Earbuds With...,"1,343",3.6
+816,"truke BTG1 Earbuds with Game Mode, 48H Playtime, Quad M...",799,4
+817,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
+818,Skullcandy Indy Evo Bluetooth,"6,499",3.5
+819,Apple Airpods Pro with MagSafe Charging Case Bluetooth,"19,990",4.5
+820,"Boult Astra Neo 70Hrs Playtime, 4 Mic ENC, BT 5.4, 40ms...",999,4.1
+821,"TRIGGR Ultrabuds N1 Neo with ENC, 40Hr Playback, 13mm D...",699,4.1
+822,"Fire-Boltt Aura TWS Earbuds with 40 Hours Playback, Qua...","1,299",3.8
+823,DigiClues TN02 Pocket Earbuds/TWs/buds 5.3 Earbuds with...,639,3.6
+824,"Aroma NB126 London Upto 50 Hours Playtime, Type C Fast ...",599,3.5
+825,Inbase Buds Mini Pro Bluetooth,935,4.1
+826,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
+827,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...",999,4.1
+828,WINGS Bass Drops 101 with Environmental Noise Cancellat...,"1,399",3.8
+829,"Skullcandy Sesh ANC Wireless Earbuds,32 Hr Battery, Mic...","7,299",3.7
+830,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+831,"truke BTG Ultra with 60H Playtime, 360Spatial, Low Late...",799,4
+832,realme Buds Air Pro Active Noise Cancellation Enabled B...,"4,999",3.7
+833,"Mivi DuoPods F70 ENC with Quad Mic, 50+ Hrs Playtime| M...","1,499",3.9
+834,TecSox Curvepods Bluetooth Bluetooth Earphone In Ear Po...,890,4.4
+835,Landmark LM BH93 TWS Bluetooth Earbuds with ENC+ANC Tec...,"1,709",3.5
+836,HOUSE OF SOUND NEW FALCON EARBUDS Bluetooth Gaming,599,4
+837,HOPPUP Predator Xo4 Gaming Earbuds with 35MS Low Latenc...,799,4.1
+838,truke Fit Pro Bluetooth,799,3.7
+839,"Aroma NB126 Quicker Upto 60 Hours* Playtime, Dual Pairi...",599,3.6
+840,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",599,3.9
+841,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
+842,LAVA Probuds 21 Bluetooth,"1,299",3.8
+843,"Noise Air Buds 3 with 45 Hours Playtime, Environmental ...","2,120",3.7
+844,"byer X8-KATANA Gaming Earbuds,45msLatency,40H playtime,...",909,4
+845,"soundcore by Anker Liberty 4 NC, Adaptive Noise Cancell...","7,999",4.8
+846,"TRIGGR Kraken X1 with Battery Display, 40ms Latency, Qu...",799,4
+847,"HOPPUP Xo6 Gaming Earbuds with 35MS Low Latency, RGB LE...",799,3.9
+848,NEXTGEN HD Sound Quality 55HRS Playtime Magnetic ON-OFF...,997,4
+849,"truke Air Buds Lite with Quad Mic ENC, 10mm Driver, Ear...","1,399",3.9
+850,"HOPPUP AirDoze S40 Earbuds with 13MM Drivers, 40H Playt...",599,4
+851,"truke BTG1 Earbuds with Game Mode, 48H Playtime, Quad M...",799,4
+852,"LG FP6W Active Noise Cancelling Earbuds, 22 Hrs Battery...","19,990",4.1
+853,Sennheiser Momentum Bluetooth,"12,999",3.6
+854,"JABRA Elite 10 True Wireless earbuds - advance ANC, mul...","19,999",3.8
+855,Landmark LM BH132 PODCASE Bluetooth,"1,234",3.9
+856,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
+857,"Boult Astra Neo 70Hrs Playtime, 4 Mic ENC, BT 5.4, 40ms...",999,4.1
+858,"truke Clarity 2 with 80H Playtime, 6Mics Adv.ENC, 35ms ...","1,499",3.8
+859,NECKTECH NT-95 Neckband 5 types of voice changer during...,670,4
+860,"TRIGGR Ultrabuds N1 Neo with ENC, 40Hr Playback, 13mm D...",699,4.1
+861,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
+862,"boAt Immortal 128 with Beast Mode, RGB LEDs & 40 Hours ...","1,499",3.9
+863,MOOZMOB ENC Air Pods Pro 2nd Gen with Touch Screen Disp...,"1,899",3.9
+864,"HOPPUP AirDoze S50 Earbuds with upto 50H Playtime, ENC,...",899,3.7
+865,"Cellecor BroPods CB11 TWS With 45 Hrs, ENC, 13mm Driver...",999,4.1
+866,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...",999,4.1
+867,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+868,Ambrane Dots Hype Bluetooth,"1,299",3.6
+869,Beats Studio Buds + Silver with Active Noise Cancellati...,"19,900",4
+870,"truke BTG Ultra with 60H Playtime, 360Spatial, Low Late...",799,4
+871,HOUSE OF SOUND NEW FALCON EARBUDS Bluetooth Gaming,599,4
+872,GIONEE Feather Pods Splash Proof Ultra-light True wirel...,"1,499",3.7
+873,"Cellecor BroPods CB44 TWS With 35 Hours Playtime, ENC, ...",999,3.7
+874,"JBL Live Flex 3, Hi-Res LDAC Audio ANC TWS, SmartCase,5...","14,999",3.1
+875,Aroma NB126 Mexico Upto 50 Hours Playtime Type C Fast C...,599,3.6
+876,HOPPUP Predator Xo4 Gaming Earbuds with 35MS Low Latenc...,799,4.1
+877,"Boult Astra with Quad Mic ENC, 48Hrs Battery, Low Laten...","1,499",4.1
+878,Jlab Go Air Sport Bluetooth,"2,249",3.5
+879,Brolan True Wireless (TWS) 48Hours Playback IPX4(Splash...,766,3.4
+880,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",599,3.9
+881,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
+882,"Toreto Tune Air With Quad Mics, ENC, 25 Hr Playtime, 13...","1,303",3.5
+883,snowbudy Immortal T80 with Beast Mode Nothing Buds Pro ...,617,3.7
+884,"BERTH Earbuds Gravity With ANC 30db, 60H Playtime,Low L...","1,499",4.8
+885,Jlab GoAir POP Bluetooth,"2,499",3.8
+886,"TRIGGR Kraken X1 with Battery Display, 40ms Latency, Qu...",799,4
+887,"HOPPUP Xo6 Gaming Earbuds with 35MS Low Latency, RGB LE...",799,3.9
+888,retold UBON Bullet Series CL-35 Wireless Neckband HD Ea...,"1,367",4
+889,TIMBRESONIC FlyPod True Wireless Earbuds Bluetooth,699,3.6
+890,"HOPPUP AirDoze S40 Earbuds with 13MM Drivers, 40H Playt...",599,4
+891,"truke BTG1 Earbuds with Game Mode, 48H Playtime, Quad M...",799,4
+892,"Seashot A520 with 40H Playtime, Quad Mic ENC, Game Mode...",718,3.5
+893,"BLEAT A2Pro-Bass,80H battery,Touch,ENC/ANC,Waterproof,F...",930,3.8
+894,Qexle Unipods pro+ ANC ENC touch display 2 with long la...,"2,499",3.4
+895,"Tunifi Immortal-X with Beast Mode, 50 Hours Playback an...",790,3.6
+896,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...","1,099",4.1
+897,"Boult Astra Neo 70Hrs Playtime, 4 Mic ENC, BT 5.4, 40ms...",999,4.1
+898,Tunifi TF Premium T2 Earbuds/TWs/buds 5.1 Earbuds with ...,615,3.7
+899,boAt Airdopes 138 Bluetooth,999,3.7
+900,"TRIGGR Ultrabuds N1 Neo with ENC, 40Hr Playback, 13mm D...",699,4.1
+901,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
+902,Brolan Truly Wireless in-Ear Blue Earbuds with ANC Blue...,721,3
+903,Tunifi TF Premium P30 Earbuds/TWs/buds 5.1 Earbuds with...,800,3.7
+904,"Fire-Boltt Fire Pods Polaris ANC ENC Earbuds TWS, about...","2,082",3.7
+905,"Hammer Arcade True Wireless Earbuds with 20H Playtime,5...",910,3.6
+906,"Boult W20 with Zen ENC Mic, 35H Battery Life, Low Laten...",999,4.1
+907,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+908,TIMBRESONIC FlyPod True Wireless Earbuds Bluetooth,699,3.6
+909,CIHYARD Mahi Kill VERY POWERFULL BASS BOOSTED MINI AIRB...,799,4
+910,"truke BTG Ultra with 60H Playtime, 360Spatial, Low Late...",799,4
+911,HOUSE OF SOUND NEW FALCON EARBUDS Bluetooth Gaming,599,4
+912,"Mivi DuoPods K4 TWS,Rich Bass,50H Playtime,AI ENC,Low L...",898,3.7
+913,Beats Studio Buds + Black/Gold with Active Noise Cancel...,"19,900",4
+914,Ambrane Dots Slay Bluetooth,"1,199",3.8
+915,LAVA PROBUDS N31 Bluetooth,"1,199",4
+916,HOPPUP Predator Xo4 Gaming Earbuds with 35MS Low Latenc...,799,4.1
+917,"Boult Astra with Quad Mic ENC, 48Hrs Battery, Low Laten...","1,499",4.1
+918,Lenovo HT18 Bluetooth,"2,012",3.4
+919,"Grooves METAL Ultra Luxury,120 Hr Playtime 49db Anc,Fas...","1,979",4.4
+920,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",599,3.9
+921,"TRIGGR Kraken X1 with Battery Display, 40ms Latency, Qu...",799,4
+922,"Mozu Flexibuds Klear with ENC,Mems Mic,Game Mode,Low La...",799,4
+923,"AMS X36 Nexus series TWS Earbuds 24Hrs Playtime, IPX5 S...",600,4
+924,retold UBON Bullet Series CL-35 Wireless Neckband HD Ea...,"1,367",4
+925,AMS X14 Transformer TWS Gaming Earbuds RGB LED Low Late...,959,3.6
+926,"HOPPUP Xo6 Gaming Earbuds with 35MS Low Latency, RGB LE...",799,3.9
+927,"HOPPUP AirDoze S40 Earbuds with 13MM Drivers, 40H Playt...",599,4
+928,Sennheiser Momentum Sport Bluetooth,"27,990",5
+929,flix Nitro T20 Bluetooth,"1,299",4.2
+930,"truke BTG1 Earbuds with Game Mode, 48H Playtime, Quad M...",799,4
+931,"Boult Astra Neo 70Hrs Playtime, 4 Mic ENC, BT 5.4, 40ms...",999,4.1
+932,boAt Airdopes 381 with upto 20 Hours Playback and ASAP ...,"2,399",4
+933,"Mivi SuperPods Halo [Flagship Launch], ANC with 3D Soun...","1,999",4.5
+934,wazny Nirvana Ion with 120 Hours Playback & Crystal Bio...,749,3.7
+935,"Foxne Point Single Ear Bluetooth With Mic, premium one ...",557,4
+936,"TRIGGR Ultrabuds N1 Neo with ENC, 40Hr Playback, 13mm D...",699,4.1
+937,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
+938,Jlab Go Air Sport Bluetooth,"2,249",3.5
+939,"soundcore by Anker Liberty 4 NC, Adaptive Noise Cancell...","7,999",4.8
+940,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+941,"truke BTG Ultra with 60H Playtime, 360Spatial, Low Late...",799,4
+942,Tunifi N21 /Neckband/TWs/buds 5.3 Earbuds with 48H Play...,763,3.8
+943,Beats Studio Buds + Black/Gold with Active Noise Cancel...,"19,900",4
+944,"SONY WF-1000XM5 Best Noise Cancelling TWS Earbuds,Multi...","24,990",4.2
+945,Blaupunkt BTW25F GR Bluetooth,"1,999",3.7
+946,"HOPPUP AirDoze F50 Earbuds with 40H PlayTime, 40MS Low ...",699,4
+947,HOPPUP Predator Xo4 Gaming Earbuds with 35MS Low Latenc...,799,4.1
+948,"Noise Beads with 18hrs of playtime, HyperSync, IPX5 and...","1,499",4
+949,"AMS X36 Nexus series TWS Earbuds 24Hrs Playtime, IPX5 S...",600,4
+950,"Boult Astra with Quad Mic ENC, 48Hrs Battery, Low Laten...","1,499",4.1
+951,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+952,"Cellecor BroPods CB44 TWS With 35 Hours Playtime, ENC, ...",999,3.7
+953,Blaupunkt BTW300 BK Bluetooth Gaming,"1,399",4
+954,"Z Buds BassBeat A30 Pro with 40Hrs Playtime, 13mm Drive...",849,4
+955,"boAt Nirvana Nebula w/ Dolby Audio, ANC(35dB), Adaptive...","2,999",3.6
+956,Tunifi Classic LB A520 Earbuds/TWs/buds 5.1 Earbuds wit...,709,3.6
+957,"truke Buds Q1 Lite with Quad-Mic ENC, 48H Playtime, Roy...",699,3.9
+958,Pebble Twins Bluetooth,"1,631",3.6
+959,Digiwins Classic X series N21 /TWs/buds 5.3 Earbuds wit...,779,3.8
+960,"truke Airbuds Lite with Quad Mic ENC, 48Hrs Battery, Ga...",599,3.9
+961,"TRIGGR Kraken X1 with Battery Display, 40ms Latency, Qu...",799,4
+962,"HOPPUP AirDoze D505 TWS Earbuds with 50H PlayTime,Rage ...",899,3.8
+963,Soundcore by Anker Life Dot 2 ANC With Multi Mode Hybri...,"7,999",4.3
+964,HOUSE OF SOUND BEST QUALITY M19 EARBUDS Bluetooth,439,4
+965,"Hammer Arcade True Wireless Earbuds with 20H Playtime,5...",910,3.6
+966,"HOPPUP Xo6 Gaming Earbuds with 35MS Low Latency, RGB LE...",799,3.9
+967,"HOPPUP AirDoze S40 Earbuds with 13MM Drivers, 40H Playt...",599,4
+968,"Grooves Ultra Luxury,120 Hr Playtime 49db Anc,Fast Char...","1,200",4.5
+969,Fastrack Reflex Tunes FT1BKB02 Buds Bluetooth,"2,636",3
+970,"truke BTG1 Earbuds with Game Mode, 48H Playtime, Quad M...",799,4
+971,"Boult Astra Neo 70Hrs Playtime, 4 Mic ENC, BT 5.4, 40ms...",999,4.1
+972,"amaq earbuds AI-sensor technology ,60Hr Playtime,13mm B...",600,3.5
+973,"Cellecor BroPods CB03-ACE TWS With 40 Hours Playtime, E...",999,3.8
+974,"BELKIN TWS Earbuds IPX5,Up to 31 hrs. Playtime Wireless...","3,800",4.3
+975,"Mivi Commando Z7,13mm Drivers Bass,50H Playtime,Dual Mi...","1,499",3.7
+976,"TRIGGR Ultrabuds N1 Neo with ENC, 40Hr Playback, 13mm D...",699,4.1
+977,HOPPUP Predator Xo3 Gaming Earbuds with 35MS Low Latenc...,799,3.9
+978,Soundcore by Anker Liberty Air 2 Pro With Active Noise ...,"9,999",4.1
+979,Chaebol 2024 True Wireless Earphones Headphones TWS HIf...,809,3.8
+980,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+981,"truke BTG Ultra with 60H Playtime, 360Spatial, Low Late...",799,4
+982,"LG FP6 Active Noise Cancelling Earbuds, 22 Hrs Battery,...","19,990",4.1
+983,Foxne Point FXBT8 ONE SIDE WIRELESS PREMIUM BLUETOOTH B...,567,3.9
+984,"Mivi SuperPods Opera ANC earbuds [Flagship Launch], Hi-...","2,499",4.9
+985,Beats Solo Buds USB-C case with Fast Charge Bluetooth,"6,900",3
+986,"HOPPUP AirDoze F50 Earbuds with 40H PlayTime, 40MS Low ...",699,4
+987,HOPPUP Predator Xo4 Gaming Earbuds with 35MS Low Latenc...,799,4.1
+988,Beats Fit Pro with Active Noise Cancellation Bluetooth,"20,990",4.6
+989,"Grooves METAL Ultra Luxury,120 Hr Playtime 49db Anc,Fas...","1,979",4.4
+990,"Boult Astra with Quad Mic ENC, 48Hrs Battery, Low Laten...","1,499",4.1
+991,"Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, ...",999,4
+992,TCL MOVEAUDIO S150 Bluetooth,"2,299",3.9
+993,Benling SkyPods with Noise Cancellation Bluetooth V5.3 ...,799,3.8
+994,"HOPPUP AirDoze H30 Earbuds with upto 30H Playtime, ENC ...",899,3.7
+995,US1984 True Wireless Earbuds ENC Game mode Low Latency ...,"1,053",4.1
+996,Tunifi Classic LB A520 Earbuds/TWs/buds 5.1 Earbuds wit...,709,3.6
+997,"truke Buds Q1 Lite with Quad-Mic ENC, 48H Playtime, Roy...",699,3.9
+998,TEMPT Thunder X True Wireless Earbuds with 13mm Drivers...,949,4.1
+999,Tunifi Classic LB N21 Earbuds/TWs/buds 5.1 Earbuds with...,799,3.6
