@@ -8,7 +8,6 @@ def decorator(func):
 
     return inner
 
-
 def add_numbers(a, b):
     print("addition is done ", a + b)
 
