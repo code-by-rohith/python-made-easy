@@ -9,8 +9,11 @@ class but must be implemented by its subclasses.
 """
 
 class Vehicle(ABC):
-    @abstractmethod
+
     def start_engine(self):
+        """When we don't give the abstract decorator, it means this is a concrete method,
+            not an abstract one, and it provides a full implementation that can be used by instances
+            of the class or subclasses without requiring them to override it."""
         pass
 
     @abstractmethod
