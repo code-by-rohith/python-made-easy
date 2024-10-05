@@ -4,6 +4,7 @@ class Data:
         self.childage = 12
         self.fatherage = 32
 
+
 class Father(Data):
 
     def speak(self):
