@@ -1,5 +1,13 @@
 from abc import ABC, abstractmethod
 
+#overide must in abstract
+"""
+An abstract class in object-oriented programming is a class that cannot be 
+instantiated on its own and serves as a template for other classes. 
+It may contain abstract methods—methods that have no implementation in the abstract 
+class but must be implemented by its subclasses.
+"""
+
 class Vehicle(ABC):
     @abstractmethod
     def start_engine(self):
