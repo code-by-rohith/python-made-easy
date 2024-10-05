@@ -1,3 +1,13 @@
+
+"""
+Encapsulation is the concept in programming where data and methods are bundled together within a class,
+and access to that data is restricted. It hides the internal details of an
+object and only allows interaction through specific methods,
+helping to protect and control how the data is used or modified.
+"""
+
+
+
 class Student:
     def __init__(self, name, roll, marks):
         self.__name = name
