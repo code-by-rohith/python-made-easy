@@ -14,7 +14,6 @@ def planB(msg):
         print(f"Executing Plan B {count}th time - {msg}")
         count += 1
         time.sleep(2)
-
 threadA = threading.Thread(target=planA, args=("Executed",))
 threadB = threading.Thread(target=planB, args=("Executed",))
 

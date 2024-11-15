@@ -14,7 +14,7 @@ class LinkedList:
             return
 
         current=self.head
-        while current.pointer:
+        while current.pointer+:
             current=current.pointer
         current.pointer=newnode
     def display(self):
